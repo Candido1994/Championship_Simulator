@@ -1,22 +1,26 @@
+
 name: Campeonato diário
 
 on:
   schedule:
-    - cron: "17 0 * * *"             # todos os dias às 00:17, horário de Brasília
+    - cron: "17 0 * * *"
       timezone: "America/Sao_Paulo"
-  workflow_dispatch:                 # permite rodar manualmente pela aba Actions
+
+  workflow_dispatch:
 
 permissions:
-  contents: write                    # necessário para gravar o resultado no repositório
+  contents: write
 
 concurrency:
-  group: campeonato-diario           # nunca roda duas simulações ao mesmo tempo
+  group: campeonato-diario
   cancel-in-progress: false
 
 jobs:
   simular:
+    name: Simular campeonato
     runs-on: ubuntu-latest
     timeout-minutes: 10
+
     steps:
       - name: Baixar o repositório
         uses: actions/checkout@v6
@@ -35,17 +39,40 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add backend/data/league.json docs/data
-          git commit -m "Campeonato ${{ steps.sim.outputs.season }}: ${{ steps.sim.outputs.champion }} campeão"
-          git pull --rebase
-          git push
+
+          if git diff --cached --quiet; then
+            echo "Nenhuma alteração encontrada."
+          else
+            git commit -m "Campeonato ${{ steps.sim.outputs.season }}: ${{ steps.sim.outputs.champion }} campeão"
+            git pull --rebase
+            git push
+          fi
+
+      - name: Configurar GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Enviar arquivos do site
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: docs/
 
   deploy:
-    needs: build
-    runs-on: ubuntu-24.04
+    name: Publicar GitHub Pages
+    needs: simular
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+
     steps:
-      - id: deployment
-        uses: actions/deploy-pages@v5
+      - name: Deploy para GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
