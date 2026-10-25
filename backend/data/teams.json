@@ -1,0 +1,996 @@
+{
+  "teams": [
+    {
+      "id": "eagles",
+      "name": "Eagles",
+      "players": [
+        {
+          "id": "eagles-top",
+          "nickname": "Zeloth",
+          "role": "TOP"
+        },
+        {
+          "id": "eagles-jgl",
+          "nickname": "Lunel",
+          "role": "JGL"
+        },
+        {
+          "id": "eagles-mid",
+          "nickname": "Kryyn",
+          "role": "MID"
+        },
+        {
+          "id": "eagles-adc",
+          "nickname": "Kryion",
+          "role": "ADC"
+        },
+        {
+          "id": "eagles-sup",
+          "nickname": "Ravel",
+          "role": "SUP"
+        }
+      ]
+    },
+    {
+      "id": "buffalos",
+      "name": "Buffalos",
+      "players": [
+        {
+          "id": "buffalos-top",
+          "nickname": "Zarek",
+          "role": "TOP"
+        },
+        {
+          "id": "buffalos-jgl",
+          "nickname": "Zelon",
+          "role": "JGL"
+        },
+        {
+          "id": "buffalos-mid",
+          "nickname": "Zarak",
+          "role": "MID"
+        },
+        {
+          "id": "buffalos-adc",
+          "nickname": "Brael",
+          "role": "ADC"
+        },
+        {
+          "id": "buffalos-sup",
+          "nickname": "Oriix",
+          "role": "SUP"
+        }
+      ]
+    },
+    {
+      "id": "crocodiles",
+      "name": "Crocodiles",
+      "players": [
+        {
+          "id": "crocodiles-top",
+          "nickname": "Solel",
+          "role": "TOP"
+        },
+        {
+          "id": "crocodiles-jgl",
+          "nickname": "Ravius",
+          "role": "JGL"
+        },
+        {
+          "id": "crocodiles-mid",
+          "nickname": "Morak",
+          "role": "MID"
+        },
+        {
+          "id": "crocodiles-adc",
+          "nickname": "Fenion",
+          "role": "ADC"
+        },
+        {
+          "id": "crocodiles-sup",
+          "nickname": "Quoyn",
+          "role": "SUP"
+        }
+      ]
+    },
+    {
+      "id": "wolves",
+      "name": "Wolves",
+      "players": [
+        {
+          "id": "wolves-top",
+          "nickname": "Solon",
+          "role": "TOP"
+        },
+        {
+          "id": "wolves-jgl",
+          "nickname": "Moryn",
+          "role": "JGL"
+        },
+        {
+          "id": "wolves-mid",
+          "nickname": "Vexion",
+          "role": "MID"
+        },
+        {
+          "id": "wolves-adc",
+          "nickname": "Jinus",
+          "role": "ADC"
+        },
+        {
+          "id": "wolves-sup",
+          "nickname": "Quooth",
+          "role": "SUP"
+        }
+      ]
+    },
+    {
+      "id": "panthers",
+      "name": "Panthers",
+      "players": [
+        {
+          "id": "panthers-top",
+          "nickname": "Quoek",
+          "role": "TOP"
+        },
+        {
+          "id": "panthers-jgl",
+          "nickname": "Kryara",
+          "role": "JGL"
+        },
+        {
+          "id": "panthers-mid",
+          "nickname": "Quoares",
+          "role": "MID"
+        },
+        {
+          "id": "panthers-adc",
+          "nickname": "Quoara",
+          "role": "ADC"
+        },
+        {
+          "id": "panthers-sup",
+          "nickname": "Soloth",
+          "role": "SUP"
+        }
+      ]
+    },
+    {
+      "id": "falcons",
+      "name": "Falcons",
+      "players": [
+        {
+          "id": "falcons-top",
+          "nickname": "Hexek",
+          "role": "TOP"
+        },
+        {
+          "id": "falcons-jgl",
+          "nickname": "Tyrix",
+          "role": "JGL"
+        },
+        {
+          "id": "falcons-mid",
+          "nickname": "Kasares",
+          "role": "MID"
+        },
+        {
+          "id": "falcons-adc",
+          "nickname": "Ravix",
+          "role": "ADC"
+        },
+        {
+          "id": "falcons-sup",
+          "nickname": "Voryn",
+          "role": "SUP"
+        }
+      ]
+    },
+    {
+      "id": "sharks",
+      "name": "Sharks",
+      "players": [
+        {
+          "id": "sharks-top",
+          "nickname": "Zelek",
+          "role": "TOP"
+        },
+        {
+          "id": "sharks-jgl",
+          "nickname": "Lunix",
+          "role": "JGL"
+        },
+        {
+          "id": "sharks-mid",
+          "nickname": "Zelix",
+          "role": "MID"
+        },
+        {
+          "id": "sharks-adc",
+          "nickname": "Hexus",
+          "role": "ADC"
+        },
+        {
+          "id": "sharks-sup",
+          "nickname": "Kason",
+          "role": "SUP"
+        }
+      ]
+    },
+    {
+      "id": "cobras",
+      "name": "Cobras",
+      "players": [
+        {
+          "id": "cobras-top",
+          "nickname": "Ashus",
+          "role": "TOP"
+        },
+        {
+          "id": "cobras-jgl",
+          "nickname": "Zaron",
+          "role": "JGL"
+        },
+        {
+          "id": "cobras-mid",
+          "nickname": "Ashara",
+          "role": "MID"
+        },
+        {
+          "id": "cobras-adc",
+          "nickname": "Lunyn",
+          "role": "ADC"
+        },
+        {
+          "id": "cobras-sup",
+          "nickname": "Braara",
+          "role": "SUP"
+        }
+      ]
+    },
+    {
+      "id": "tigers",
+      "name": "Tigers",
+      "players": [
+        {
+          "id": "tigers-top",
+          "nickname": "Fenara",
+          "role": "TOP"
+        },
+        {
+          "id": "tigers-jgl",
+          "nickname": "Tyrek",
+          "role": "JGL"
+        },
+        {
+          "id": "tigers-mid",
+          "nickname": "Draara",
+          "role": "MID"
+        },
+        {
+          "id": "tigers-adc",
+          "nickname": "Draus",
+          "role": "ADC"
+        },
+        {
+          "id": "tigers-sup",
+          "nickname": "Fenares",
+          "role": "SUP"
+        }
+      ]
+    },
+    {
+      "id": "rhinos",
+      "name": "Rhinos",
+      "players": [
+        {
+          "id": "rhinos-top",
+          "nickname": "Jinak",
+          "role": "TOP"
+        },
+        {
+          "id": "rhinos-jgl",
+          "nickname": "Oriyn",
+          "role": "JGL"
+        },
+        {
+          "id": "rhinos-mid",
+          "nickname": "Ravus",
+          "role": "MID"
+        },
+        {
+          "id": "rhinos-adc",
+          "nickname": "Vorus",
+          "role": "ADC"
+        },
+        {
+          "id": "rhinos-sup",
+          "nickname": "Jinara",
+          "role": "SUP"
+        }
+      ]
+    },
+    {
+      "id": "hawks",
+      "name": "Hawks",
+      "players": [
+        {
+          "id": "hawks-top",
+          "nickname": "Draius",
+          "role": "TOP"
+        },
+        {
+          "id": "hawks-jgl",
+          "nickname": "Vorak",
+          "role": "JGL"
+        },
+        {
+          "id": "hawks-mid",
+          "nickname": "Zarion",
+          "role": "MID"
+        },
+        {
+          "id": "hawks-adc",
+          "nickname": "Morara",
+          "role": "ADC"
+        },
+        {
+          "id": "hawks-sup",
+          "nickname": "Lunon",
+          "role": "SUP"
+        }
+      ]
+    },
+    {
+      "id": "scorpions",
+      "name": "Scorpions",
+      "players": [
+        {
+          "id": "scorpions-top",
+          "nickname": "Vexek",
+          "role": "TOP"
+        },
+        {
+          "id": "scorpions-jgl",
+          "nickname": "Hexel",
+          "role": "JGL"
+        },
+        {
+          "id": "scorpions-mid",
+          "nickname": "Noxares",
+          "role": "MID"
+        },
+        {
+          "id": "scorpions-adc",
+          "nickname": "Orius",
+          "role": "ADC"
+        },
+        {
+          "id": "scorpions-sup",
+          "nickname": "Jinares",
+          "role": "SUP"
+        }
+      ]
+    },
+    {
+      "id": "bears",
+      "name": "Bears",
+      "players": [
+        {
+          "id": "bears-top",
+          "nickname": "Solius",
+          "role": "TOP"
+        },
+        {
+          "id": "bears-jgl",
+          "nickname": "Lunus",
+          "role": "JGL"
+        },
+        {
+          "id": "bears-mid",
+          "nickname": "Kasoth",
+          "role": "MID"
+        },
+        {
+          "id": "bears-adc",
+          "nickname": "Draak",
+          "role": "ADC"
+        },
+        {
+          "id": "bears-sup",
+          "nickname": "Drael",
+          "role": "SUP"
+        }
+      ]
+    },
+    {
+      "id": "lions",
+      "name": "Lions",
+      "players": [
+        {
+          "id": "lions-top",
+          "nickname": "Hexak",
+          "role": "TOP"
+        },
+        {
+          "id": "lions-jgl",
+          "nickname": "Hexares",
+          "role": "JGL"
+        },
+        {
+          "id": "lions-mid",
+          "nickname": "Vorion",
+          "role": "MID"
+        },
+        {
+          "id": "lions-adc",
+          "nickname": "Fenoth",
+          "role": "ADC"
+        },
+        {
+          "id": "lions-sup",
+          "nickname": "Solara",
+          "role": "SUP"
+        }
+      ]
+    },
+    {
+      "id": "vipers",
+      "name": "Vipers",
+      "players": [
+        {
+          "id": "vipers-top",
+          "nickname": "Morel",
+          "role": "TOP"
+        },
+        {
+          "id": "vipers-jgl",
+          "nickname": "Kryus",
+          "role": "JGL"
+        },
+        {
+          "id": "vipers-mid",
+          "nickname": "Zelara",
+          "role": "MID"
+        },
+        {
+          "id": "vipers-adc",
+          "nickname": "Quoak",
+          "role": "ADC"
+        },
+        {
+          "id": "vipers-sup",
+          "nickname": "Kryel",
+          "role": "SUP"
+        }
+      ]
+    },
+    {
+      "id": "ravens",
+      "name": "Ravens",
+      "players": [
+        {
+          "id": "ravens-top",
+          "nickname": "Orion",
+          "role": "TOP"
+        },
+        {
+          "id": "ravens-jgl",
+          "nickname": "Quoion",
+          "role": "JGL"
+        },
+        {
+          "id": "ravens-mid",
+          "nickname": "Quous",
+          "role": "MID"
+        },
+        {
+          "id": "ravens-adc",
+          "nickname": "Moron",
+          "role": "ADC"
+        },
+        {
+          "id": "ravens-sup",
+          "nickname": "Tyroth",
+          "role": "SUP"
+        }
+      ]
+    },
+    {
+      "id": "jaguars",
+      "name": "Jaguars",
+      "players": [
+        {
+          "id": "jaguars-top",
+          "nickname": "Oriek",
+          "role": "TOP"
+        },
+        {
+          "id": "jaguars-jgl",
+          "nickname": "Solares",
+          "role": "JGL"
+        },
+        {
+          "id": "jaguars-mid",
+          "nickname": "Kryon",
+          "role": "MID"
+        },
+        {
+          "id": "jaguars-adc",
+          "nickname": "Quoix",
+          "role": "ADC"
+        },
+        {
+          "id": "jaguars-sup",
+          "nickname": "Morares",
+          "role": "SUP"
+        }
+      ]
+    },
+    {
+      "id": "leopards",
+      "name": "Leopards",
+      "players": [
+        {
+          "id": "leopards-top",
+          "nickname": "Ashel",
+          "role": "TOP"
+        },
+        {
+          "id": "leopards-jgl",
+          "nickname": "Ashion",
+          "role": "JGL"
+        },
+        {
+          "id": "leopards-mid",
+          "nickname": "Oriius",
+          "role": "MID"
+        },
+        {
+          "id": "leopards-adc",
+          "nickname": "Zelel",
+          "role": "ADC"
+        },
+        {
+          "id": "leopards-sup",
+          "nickname": "Vorares",
+          "role": "SUP"
+        }
+      ]
+    },
+    {
+      "id": "hornets",
+      "name": "Hornets",
+      "players": [
+        {
+          "id": "hornets-top",
+          "nickname": "Morix",
+          "role": "TOP"
+        },
+        {
+          "id": "hornets-jgl",
+          "nickname": "Oriara",
+          "role": "JGL"
+        },
+        {
+          "id": "hornets-mid",
+          "nickname": "Hexix",
+          "role": "MID"
+        },
+        {
+          "id": "hornets-adc",
+          "nickname": "Kryares",
+          "role": "ADC"
+        },
+        {
+          "id": "hornets-sup",
+          "nickname": "Jinon",
+          "role": "SUP"
+        }
+      ]
+    },
+    {
+      "id": "mantis",
+      "name": "Mantis",
+      "players": [
+        {
+          "id": "mantis-top",
+          "nickname": "Kryius",
+          "role": "TOP"
+        },
+        {
+          "id": "mantis-jgl",
+          "nickname": "Braak",
+          "role": "JGL"
+        },
+        {
+          "id": "mantis-mid",
+          "nickname": "Zelus",
+          "role": "MID"
+        },
+        {
+          "id": "mantis-adc",
+          "nickname": "Hexyn",
+          "role": "ADC"
+        },
+        {
+          "id": "mantis-sup",
+          "nickname": "Zaryn",
+          "role": "SUP"
+        }
+      ]
+    },
+    {
+      "id": "stallions",
+      "name": "Stallions",
+      "players": [
+        {
+          "id": "stallions-top",
+          "nickname": "Morus",
+          "role": "TOP"
+        },
+        {
+          "id": "stallions-jgl",
+          "nickname": "Orioth",
+          "role": "JGL"
+        },
+        {
+          "id": "stallions-mid",
+          "nickname": "Ashius",
+          "role": "MID"
+        },
+        {
+          "id": "stallions-adc",
+          "nickname": "Lunoth",
+          "role": "ADC"
+        },
+        {
+          "id": "stallions-sup",
+          "nickname": "Oriel",
+          "role": "SUP"
+        }
+      ]
+    },
+    {
+      "id": "gorillas",
+      "name": "Gorillas",
+      "players": [
+        {
+          "id": "gorillas-top",
+          "nickname": "Vexus",
+          "role": "TOP"
+        },
+        {
+          "id": "gorillas-jgl",
+          "nickname": "Jinoth",
+          "role": "JGL"
+        },
+        {
+          "id": "gorillas-mid",
+          "nickname": "Hexon",
+          "role": "MID"
+        },
+        {
+          "id": "gorillas-adc",
+          "nickname": "Braius",
+          "role": "ADC"
+        },
+        {
+          "id": "gorillas-sup",
+          "nickname": "Lunius",
+          "role": "SUP"
+        }
+      ]
+    },
+    {
+      "id": "foxes",
+      "name": "Foxes",
+      "players": [
+        {
+          "id": "foxes-top",
+          "nickname": "Tyryn",
+          "role": "TOP"
+        },
+        {
+          "id": "foxes-jgl",
+          "nickname": "Vexix",
+          "role": "JGL"
+        },
+        {
+          "id": "foxes-mid",
+          "nickname": "Kasyn",
+          "role": "MID"
+        },
+        {
+          "id": "foxes-adc",
+          "nickname": "Jinion",
+          "role": "ADC"
+        },
+        {
+          "id": "foxes-sup",
+          "nickname": "Lunion",
+          "role": "SUP"
+        }
+      ]
+    },
+    {
+      "id": "owls",
+      "name": "Owls",
+      "players": [
+        {
+          "id": "owls-top",
+          "nickname": "Vexak",
+          "role": "TOP"
+        },
+        {
+          "id": "owls-jgl",
+          "nickname": "Lunek",
+          "role": "JGL"
+        },
+        {
+          "id": "owls-mid",
+          "nickname": "Ravara",
+          "role": "MID"
+        },
+        {
+          "id": "owls-adc",
+          "nickname": "Morion",
+          "role": "ADC"
+        },
+        {
+          "id": "owls-sup",
+          "nickname": "Ashon",
+          "role": "SUP"
+        }
+      ]
+    },
+    {
+      "id": "lynxes",
+      "name": "Lynxes",
+      "players": [
+        {
+          "id": "lynxes-top",
+          "nickname": "Ravek",
+          "role": "TOP"
+        },
+        {
+          "id": "lynxes-jgl",
+          "nickname": "Ashoth",
+          "role": "JGL"
+        },
+        {
+          "id": "lynxes-mid",
+          "nickname": "Tyron",
+          "role": "MID"
+        },
+        {
+          "id": "lynxes-adc",
+          "nickname": "Noxak",
+          "role": "ADC"
+        },
+        {
+          "id": "lynxes-sup",
+          "nickname": "Vexius",
+          "role": "SUP"
+        }
+      ]
+    },
+    {
+      "id": "piranhas",
+      "name": "Piranhas",
+      "players": [
+        {
+          "id": "piranhas-top",
+          "nickname": "Solus",
+          "role": "TOP"
+        },
+        {
+          "id": "piranhas-jgl",
+          "nickname": "Draek",
+          "role": "JGL"
+        },
+        {
+          "id": "piranhas-mid",
+          "nickname": "Jinius",
+          "role": "MID"
+        },
+        {
+          "id": "piranhas-adc",
+          "nickname": "Braion",
+          "role": "ADC"
+        },
+        {
+          "id": "piranhas-sup",
+          "nickname": "Tyrara",
+          "role": "SUP"
+        }
+      ]
+    },
+    {
+      "id": "condors",
+      "name": "Condors",
+      "players": [
+        {
+          "id": "condors-top",
+          "nickname": "Fenon",
+          "role": "TOP"
+        },
+        {
+          "id": "condors-jgl",
+          "nickname": "Fenel",
+          "role": "JGL"
+        },
+        {
+          "id": "condors-mid",
+          "nickname": "Tyrius",
+          "role": "MID"
+        },
+        {
+          "id": "condors-adc",
+          "nickname": "Fenus",
+          "role": "ADC"
+        },
+        {
+          "id": "condors-sup",
+          "nickname": "Braus",
+          "role": "SUP"
+        }
+      ]
+    },
+    {
+      "id": "hyenas",
+      "name": "Hyenas",
+      "players": [
+        {
+          "id": "hyenas-top",
+          "nickname": "Tyrion",
+          "role": "TOP"
+        },
+        {
+          "id": "hyenas-jgl",
+          "nickname": "Draares",
+          "role": "JGL"
+        },
+        {
+          "id": "hyenas-mid",
+          "nickname": "Kasek",
+          "role": "MID"
+        },
+        {
+          "id": "hyenas-adc",
+          "nickname": "Noxix",
+          "role": "ADC"
+        },
+        {
+          "id": "hyenas-sup",
+          "nickname": "Noxek",
+          "role": "SUP"
+        }
+      ]
+    },
+    {
+      "id": "barracudas",
+      "name": "Barracudas",
+      "players": [
+        {
+          "id": "barracudas-top",
+          "nickname": "Kryix",
+          "role": "TOP"
+        },
+        {
+          "id": "barracudas-jgl",
+          "nickname": "Zaroth",
+          "role": "JGL"
+        },
+        {
+          "id": "barracudas-mid",
+          "nickname": "Brayn",
+          "role": "MID"
+        },
+        {
+          "id": "barracudas-adc",
+          "nickname": "Hexara",
+          "role": "ADC"
+        },
+        {
+          "id": "barracudas-sup",
+          "nickname": "Zarius",
+          "role": "SUP"
+        }
+      ]
+    },
+    {
+      "id": "mustangs",
+      "name": "Mustangs",
+      "players": [
+        {
+          "id": "mustangs-top",
+          "nickname": "Solion",
+          "role": "TOP"
+        },
+        {
+          "id": "mustangs-jgl",
+          "nickname": "Hexoth",
+          "role": "JGL"
+        },
+        {
+          "id": "mustangs-mid",
+          "nickname": "Solyn",
+          "role": "MID"
+        },
+        {
+          "id": "mustangs-adc",
+          "nickname": "Ashek",
+          "role": "ADC"
+        },
+        {
+          "id": "mustangs-sup",
+          "nickname": "Braoth",
+          "role": "SUP"
+        }
+      ]
+    },
+    {
+      "id": "wolverines",
+      "name": "Wolverines",
+      "players": [
+        {
+          "id": "wolverines-top",
+          "nickname": "Vexel",
+          "role": "TOP"
+        },
+        {
+          "id": "wolverines-jgl",
+          "nickname": "Ashares",
+          "role": "JGL"
+        },
+        {
+          "id": "wolverines-mid",
+          "nickname": "Zarix",
+          "role": "MID"
+        },
+        {
+          "id": "wolverines-adc",
+          "nickname": "Zelak",
+          "role": "ADC"
+        },
+        {
+          "id": "wolverines-sup",
+          "nickname": "Oriares",
+          "role": "SUP"
+        }
+      ]
+    },
+    {
+      "id": "komodos",
+      "name": "Komodos",
+      "players": [
+        {
+          "id": "komodos-top",
+          "nickname": "Noxion",
+          "role": "TOP"
+        },
+        {
+          "id": "komodos-jgl",
+          "nickname": "Ravyn",
+          "role": "JGL"
+        },
+        {
+          "id": "komodos-mid",
+          "nickname": "Zelares",
+          "role": "MID"
+        },
+        {
+          "id": "komodos-adc",
+          "nickname": "Braek",
+          "role": "ADC"
+        },
+        {
+          "id": "komodos-sup",
+          "nickname": "Voroth",
+          "role": "SUP"
+        }
+      ]
+    }
+  ]
+}

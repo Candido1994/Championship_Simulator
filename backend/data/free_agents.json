@@ -1,0 +1,79 @@
+{
+  "free_agents": [
+    {
+      "id": "dodican",
+      "nickname": "Dodican",
+      "role": "TOP"
+    },
+    {
+      "id": "king",
+      "nickname": "King",
+      "role": "TOP"
+    },
+    {
+      "id": "rangel",
+      "nickname": "Rangel",
+      "role": "TOP"
+    },
+    {
+      "id": "laxuxus",
+      "nickname": "Laxuxus",
+      "role": "JGL"
+    },
+    {
+      "id": "terere",
+      "nickname": "Terere",
+      "role": "JGL"
+    },
+    {
+      "id": "velhinho",
+      "nickname": "Velhinho",
+      "role": "JGL"
+    },
+    {
+      "id": "miajuda",
+      "nickname": "Miajuda",
+      "role": "MID"
+    },
+    {
+      "id": "barril",
+      "nickname": "Barril",
+      "role": "MID"
+    },
+    {
+      "id": "negorich",
+      "nickname": "Negorich",
+      "role": "MID"
+    },
+    {
+      "id": "soneca",
+      "nickname": "Soneca",
+      "role": "ADC"
+    },
+    {
+      "id": "kcandido",
+      "nickname": "KCandido",
+      "role": "ADC"
+    },
+    {
+      "id": "leozin",
+      "nickname": "Leozin",
+      "role": "ADC"
+    },
+    {
+      "id": "riquinho",
+      "nickname": "Riquinho",
+      "role": "SUP"
+    },
+    {
+      "id": "patinete",
+      "nickname": "Patinete",
+      "role": "SUP"
+    },
+    {
+      "id": "nathy",
+      "nickname": "Nathy",
+      "role": "SUP"
+    }
+  ]
+}
