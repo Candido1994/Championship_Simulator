@@ -2,3 +2,4 @@
 {"season":"2026-B","team_id":"lynxes","matches":14,"points":129,"assists":203,"defeats":139,"kda_avg":3.034,"kda_pond":3.3627,"rank_overall":106,"rank_role":23,"bonus":0,"champion":false}
 {"season":"2027-A","team_id":"lynxes","matches":14,"points":135,"assists":142,"defeats":177,"kda_avg":1.8572,"kda_pond":2.7062,"rank_overall":155,"rank_role":30,"bonus":0,"champion":false}
 {"season":"2028-A","team_id":"ravens","matches":24,"points":220,"assists":248,"defeats":253,"kda_avg":2.5534,"kda_pond":2.9722,"rank_overall":140,"rank_role":29,"bonus":0,"champion":true}
+{"season":"2028-B","team_id":"ravens","matches":25,"points":257,"assists":218,"defeats":234,"kda_avg":3.0252,"kda_pond":3.3587,"rank_overall":115,"rank_role":23,"bonus":0,"champion":false}

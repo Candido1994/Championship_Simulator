@@ -3,3 +3,4 @@
 {"season":"2027-A","team_id":"falcons","matches":25,"points":267,"assists":286,"defeats":242,"kda_avg":5.6033,"kda_pond":5.4603,"rank_overall":8,"rank_role":2,"bonus":0,"champion":true}
 {"season":"2027-B","team_id":"falcons","matches":17,"points":184,"assists":151,"defeats":177,"kda_avg":2.4183,"kda_pond":2.9609,"rank_overall":148,"rank_role":28,"bonus":1,"champion":false}
 {"season":"2028-A","team_id":"falcons","matches":14,"points":153,"assists":144,"defeats":154,"kda_avg":4.3835,"kda_pond":4.2085,"rank_overall":63,"rank_role":13,"bonus":0,"champion":false}
+{"season":"2028-B","team_id":"falcons","matches":14,"points":169,"assists":145,"defeats":157,"kda_avg":2.5213,"kda_pond":3.1386,"rank_overall":136,"rank_role":26,"bonus":0,"champion":false}

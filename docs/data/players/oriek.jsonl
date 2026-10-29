@@ -3,3 +3,4 @@
 {"season":"2027-A","team_id":"jaguars","matches":20,"points":214,"assists":263,"defeats":160,"kda_avg":7.0435,"kda_pond":6.2268,"rank_overall":2,"rank_role":1,"bonus":0,"champion":false}
 {"season":"2027-B","team_id":"jaguars","matches":14,"points":191,"assists":159,"defeats":156,"kda_avg":3.8316,"kda_pond":3.8923,"rank_overall":69,"rank_role":13,"bonus":1,"champion":false}
 {"season":"2028-A","team_id":"crocodiles","matches":14,"points":186,"assists":143,"defeats":155,"kda_avg":3.3239,"kda_pond":3.5904,"rank_overall":90,"rank_role":22,"bonus":1,"champion":false}
+{"season":"2028-B","team_id":"crocodiles","matches":14,"points":114,"assists":103,"defeats":115,"kda_avg":2.9978,"kda_pond":3.4165,"rank_overall":106,"rank_role":18,"bonus":0,"champion":false}

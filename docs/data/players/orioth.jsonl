@@ -2,3 +2,4 @@
 {"season":"2026-B","team_id":"stallions","matches":19,"points":209,"assists":214,"defeats":185,"kda_avg":4.2731,"kda_pond":4.1115,"rank_overall":47,"rank_role":8,"bonus":0,"champion":false}
 {"season":"2027-A","team_id":"stallions","matches":14,"points":134,"assists":145,"defeats":155,"kda_avg":2.1937,"kda_pond":2.9025,"rank_overall":145,"rank_role":31,"bonus":0,"champion":false}
 {"season":"2028-A","team_id":"ravens","matches":24,"points":279,"assists":227,"defeats":256,"kda_avg":4.0849,"kda_pond":3.8605,"rank_overall":73,"rank_role":19,"bonus":0,"champion":true}
+{"season":"2028-B","team_id":"ravens","matches":25,"points":295,"assists":281,"defeats":211,"kda_avg":6.8413,"kda_pond":5.7599,"rank_overall":8,"rank_role":1,"bonus":0,"champion":false}
