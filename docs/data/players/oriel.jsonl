@@ -4,3 +4,4 @@
 {"season":"2028-A","team_id":"rhinos","matches":14,"points":130,"assists":121,"defeats":168,"kda_avg":2.8746,"kda_pond":3.3283,"rank_overall":109,"rank_role":21,"bonus":0,"champion":false}
 {"season":"2028-B","team_id":"rhinos","matches":14,"points":163,"assists":146,"defeats":128,"kda_avg":8.2333,"kda_pond":6.4706,"rank_overall":1,"rank_role":1,"bonus":0,"champion":false}
 {"season":"2029-A","team_id":"komodos","matches":16,"points":201,"assists":233,"defeats":133,"kda_avg":5.3234,"kda_pond":4.8676,"rank_overall":28,"rank_role":7,"bonus":2,"champion":false}
+{"season":"2029-B","team_id":"komodos","matches":14,"points":168,"assists":176,"defeats":102,"kda_avg":4.0171,"kda_pond":3.9869,"rank_overall":69,"rank_role":12,"bonus":2,"champion":false}

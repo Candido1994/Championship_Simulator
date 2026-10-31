@@ -5,3 +5,4 @@
 {"season":"2028-A","team_id":"sharks","matches":14,"points":161,"assists":118,"defeats":86,"kda_avg":8.3136,"kda_pond":6.5011,"rank_overall":1,"rank_role":1,"bonus":2,"champion":false}
 {"season":"2028-B","team_id":"crocodiles","matches":14,"points":171,"assists":198,"defeats":120,"kda_avg":4.9066,"kda_pond":4.53,"rank_overall":43,"rank_role":10,"bonus":4,"champion":false}
 {"season":"2029-A","team_id":"crocodiles","matches":16,"points":247,"assists":253,"defeats":160,"kda_avg":4.1005,"kda_pond":4.1286,"rank_overall":75,"rank_role":17,"bonus":4,"champion":false}
+{"season":"2029-B","team_id":"crocodiles","matches":20,"points":300,"assists":251,"defeats":233,"kda_avg":3.2176,"kda_pond":3.4728,"rank_overall":105,"rank_role":21,"bonus":3,"champion":false}

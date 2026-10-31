@@ -4,3 +4,4 @@
 {"season":"2027-B","team_id":"crocodiles","matches":16,"points":188,"assists":119,"defeats":140,"kda_avg":3.555,"kda_pond":3.7044,"rank_overall":93,"rank_role":19,"bonus":0,"champion":false}
 {"season":"2028-A","team_id":"crocodiles","matches":14,"points":122,"assists":133,"defeats":191,"kda_avg":1.6001,"kda_pond":2.5848,"rank_overall":158,"rank_role":32,"bonus":0,"champion":false}
 {"season":"2029-A","team_id":"hyenas","matches":14,"points":157,"assists":178,"defeats":124,"kda_avg":9.73,"kda_pond":7.441,"rank_overall":1,"rank_role":1,"bonus":0,"champion":false}
+{"season":"2029-B","team_id":"rhinos","matches":19,"points":293,"assists":246,"defeats":170,"kda_avg":4.6665,"kda_pond":4.3559,"rank_overall":47,"rank_role":12,"bonus":2,"champion":false}
