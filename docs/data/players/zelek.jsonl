@@ -5,3 +5,4 @@
 {"season":"2028-B","team_id":"ravens","matches":25,"points":262,"assists":312,"defeats":208,"kda_avg":7.436,"kda_pond":5.8466,"rank_overall":6,"rank_role":1,"bonus":1,"champion":false}
 {"season":"2029-A","team_id":"ravens","matches":14,"points":159,"assists":152,"defeats":138,"kda_avg":3.4028,"kda_pond":3.7502,"rank_overall":110,"rank_role":21,"bonus":2,"champion":false}
 {"season":"2029-B","team_id":"ravens","matches":14,"points":154,"assists":170,"defeats":189,"kda_avg":1.9708,"kda_pond":2.7932,"rank_overall":154,"rank_role":31,"bonus":1,"champion":false}
+{"season":"2030-B","team_id":"owls","matches":18,"points":210,"assists":151,"defeats":156,"kda_avg":6.7883,"kda_pond":5.8736,"rank_overall":12,"rank_role":3,"bonus":0,"champion":false}

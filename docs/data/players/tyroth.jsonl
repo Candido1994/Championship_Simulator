@@ -6,3 +6,4 @@
 {"season":"2029-A","team_id":"crocodiles","matches":16,"points":174,"assists":179,"defeats":158,"kda_avg":4.3349,"kda_pond":4.2584,"rank_overall":64,"rank_role":12,"bonus":0,"champion":false}
 {"season":"2029-B","team_id":"crocodiles","matches":20,"points":265,"assists":219,"defeats":230,"kda_avg":4.148,"kda_pond":3.8952,"rank_overall":78,"rank_role":13,"bonus":0,"champion":false}
 {"season":"2030-A","team_id":"crocodiles","matches":27,"points":264,"assists":326,"defeats":266,"kda_avg":4.7435,"kda_pond":4.322,"rank_overall":42,"rank_role":8,"bonus":0,"champion":true}
+{"season":"2030-B","team_id":"crocodiles","matches":19,"points":175,"assists":191,"defeats":198,"kda_avg":3.5925,"kda_pond":3.7931,"rank_overall":101,"rank_role":23,"bonus":0,"champion":false}

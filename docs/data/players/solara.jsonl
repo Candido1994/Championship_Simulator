@@ -4,3 +4,4 @@
 {"season":"2028-A","team_id":"scorpions","matches":14,"points":151,"assists":133,"defeats":185,"kda_avg":1.791,"kda_pond":2.6962,"rank_overall":155,"rank_role":32,"bonus":0,"champion":false}
 {"season":"2029-A","team_id":"scorpions","matches":16,"points":137,"assists":171,"defeats":158,"kda_avg":2.5286,"kda_pond":3.1641,"rank_overall":146,"rank_role":30,"bonus":0,"champion":false}
 {"season":"2030-A","team_id":"wolves","matches":21,"points":225,"assists":262,"defeats":220,"kda_avg":4.8824,"kda_pond":4.4563,"rank_overall":37,"rank_role":6,"bonus":0,"champion":false}
+{"season":"2030-B","team_id":"wolves","matches":14,"points":134,"assists":135,"defeats":169,"kda_avg":1.936,"kda_pond":2.9092,"rank_overall":154,"rank_role":32,"bonus":0,"champion":false}

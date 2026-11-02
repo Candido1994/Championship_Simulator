@@ -5,3 +5,4 @@
 {"season":"2028-B","team_id":"ravens","matches":25,"points":301,"assists":249,"defeats":274,"kda_avg":2.9893,"kda_pond":3.145,"rank_overall":134,"rank_role":30,"bonus":0,"champion":false}
 {"season":"2029-B","team_id":"scorpions","matches":14,"points":142,"assists":93,"defeats":145,"kda_avg":3.191,"kda_pond":3.505,"rank_overall":103,"rank_role":22,"bonus":0,"champion":false}
 {"season":"2030-A","team_id":"scorpions","matches":14,"points":101,"assists":163,"defeats":118,"kda_avg":2.9811,"kda_pond":3.3986,"rank_overall":110,"rank_role":25,"bonus":0,"champion":false}
+{"season":"2030-B","team_id":"scorpions","matches":26,"points":249,"assists":245,"defeats":217,"kda_avg":4.4032,"kda_pond":4.4547,"rank_overall":55,"rank_role":10,"bonus":0,"champion":true}

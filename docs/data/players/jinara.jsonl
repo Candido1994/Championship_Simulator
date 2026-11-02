@@ -6,3 +6,4 @@
 {"season":"2029-A","team_id":"bears","matches":20,"points":251,"assists":218,"defeats":190,"kda_avg":4.1898,"kda_pond":4.0734,"rank_overall":80,"rank_role":17,"bonus":1,"champion":false}
 {"season":"2029-B","team_id":"bears","matches":16,"points":187,"assists":211,"defeats":161,"kda_avg":6.4088,"kda_pond":5.3879,"rank_overall":11,"rank_role":3,"bonus":0,"champion":false}
 {"season":"2030-A","team_id":"bears","matches":26,"points":287,"assists":359,"defeats":264,"kda_avg":3.1906,"kda_pond":3.3917,"rank_overall":111,"rank_role":25,"bonus":1,"champion":false}
+{"season":"2030-B","team_id":"bears","matches":16,"points":105,"assists":193,"defeats":208,"kda_avg":2.3907,"kda_pond":3.1289,"rank_overall":143,"rank_role":30,"bonus":0,"champion":false}

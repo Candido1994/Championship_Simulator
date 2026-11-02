@@ -6,3 +6,4 @@
 {"season":"2028-B","team_id":"komodos","matches":14,"points":87,"assists":127,"defeats":114,"kda_avg":3.0247,"kda_pond":3.4322,"rank_overall":103,"rank_role":23,"bonus":0,"champion":false}
 {"season":"2029-A","team_id":"komodos","matches":16,"points":182,"assists":156,"defeats":200,"kda_avg":2.04,"kda_pond":2.8601,"rank_overall":159,"rank_role":32,"bonus":0,"champion":false}
 {"season":"2030-A","team_id":"eagles","matches":17,"points":179,"assists":190,"defeats":123,"kda_avg":7.7171,"kda_pond":6.3734,"rank_overall":5,"rank_role":1,"bonus":0,"champion":false}
+{"season":"2030-B","team_id":"eagles","matches":14,"points":153,"assists":150,"defeats":142,"kda_avg":2.9775,"kda_pond":3.5167,"rank_overall":116,"rank_role":22,"bonus":1,"champion":false}

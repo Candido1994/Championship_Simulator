@@ -6,3 +6,4 @@
 {"season":"2029-A","team_id":"jaguars","matches":14,"points":117,"assists":156,"defeats":120,"kda_avg":4.8481,"kda_pond":4.5933,"rank_overall":42,"rank_role":6,"bonus":0,"champion":false}
 {"season":"2029-B","team_id":"jaguars","matches":25,"points":297,"assists":223,"defeats":251,"kda_avg":5.2225,"kda_pond":4.6469,"rank_overall":30,"rank_role":5,"bonus":0,"champion":true}
 {"season":"2030-A","team_id":"jaguars","matches":14,"points":109,"assists":140,"defeats":146,"kda_avg":2.2589,"kda_pond":2.9773,"rank_overall":144,"rank_role":27,"bonus":1,"champion":false}
+{"season":"2030-B","team_id":"jaguars","matches":18,"points":195,"assists":187,"defeats":226,"kda_avg":2.3932,"kda_pond":2.9879,"rank_overall":151,"rank_role":31,"bonus":0,"champion":false}

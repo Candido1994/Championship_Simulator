@@ -6,3 +6,4 @@
 {"season":"2028-B","team_id":"panthers","matches":14,"points":105,"assists":118,"defeats":183,"kda_avg":1.8728,"kda_pond":2.7603,"rank_overall":157,"rank_role":32,"bonus":0,"champion":false}
 {"season":"2029-B","team_id":"komodos","matches":14,"points":160,"assists":130,"defeats":160,"kda_avg":3.8572,"kda_pond":3.8936,"rank_overall":79,"rank_role":14,"bonus":0,"champion":false}
 {"season":"2030-A","team_id":"komodos","matches":19,"points":171,"assists":218,"defeats":183,"kda_avg":5.2176,"kda_pond":4.9346,"rank_overall":19,"rank_role":5,"bonus":0,"champion":false}
+{"season":"2030-B","team_id":"komodos","matches":14,"points":161,"assists":169,"defeats":174,"kda_avg":2.4928,"kda_pond":3.234,"rank_overall":140,"rank_role":29,"bonus":1,"champion":false}

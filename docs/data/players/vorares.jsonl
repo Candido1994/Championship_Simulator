@@ -6,3 +6,4 @@
 {"season":"2029-A","team_id":"lions","matches":14,"points":158,"assists":152,"defeats":133,"kda_avg":5.7731,"kda_pond":5.1329,"rank_overall":22,"rank_role":4,"bonus":2,"champion":false}
 {"season":"2029-B","team_id":"lions","matches":14,"points":220,"assists":171,"defeats":107,"kda_avg":10.0832,"kda_pond":7.5254,"rank_overall":1,"rank_role":1,"bonus":3,"champion":false}
 {"season":"2030-A","team_id":"lynxes","matches":14,"points":215,"assists":236,"defeats":99,"kda_avg":9.269,"kda_pond":7.0666,"rank_overall":2,"rank_role":1,"bonus":5,"champion":false}
+{"season":"2030-B","team_id":"lynxes","matches":14,"points":226,"assists":198,"defeats":102,"kda_avg":10.8418,"kda_pond":8.1042,"rank_overall":2,"rank_role":2,"bonus":5,"champion":false}

@@ -7,3 +7,4 @@
 {"season":"2029-A","team_id":"vipers","matches":25,"points":270,"assists":270,"defeats":227,"kda_avg":5.7324,"kda_pond":5.1544,"rank_overall":21,"rank_role":3,"bonus":0,"champion":true}
 {"season":"2029-B","team_id":"vipers","matches":19,"points":206,"assists":207,"defeats":195,"kda_avg":2.9473,"kda_pond":3.277,"rank_overall":115,"rank_role":21,"bonus":1,"champion":false}
 {"season":"2030-A","team_id":"vipers","matches":20,"points":213,"assists":224,"defeats":206,"kda_avg":3.982,"kda_pond":4.017,"rank_overall":61,"rank_role":14,"bonus":0,"champion":false}
+{"season":"2030-B","team_id":"vipers","matches":21,"points":260,"assists":241,"defeats":236,"kda_avg":3.0727,"kda_pond":3.3198,"rank_overall":130,"rank_role":27,"bonus":0,"champion":false}
