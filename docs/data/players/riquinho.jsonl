@@ -8,3 +8,4 @@
 {"season":"2030-A","team_id":"stallions","matches":17,"points":197,"assists":183,"defeats":163,"kda_avg":5.6644,"kda_pond":5.0507,"rank_overall":14,"rank_role":2,"bonus":0,"champion":false}
 {"season":"2030-B","team_id":"stallions","matches":17,"points":163,"assists":198,"defeats":156,"kda_avg":7.0371,"kda_pond":5.9402,"rank_overall":10,"rank_role":3,"bonus":1,"champion":false}
 {"season":"2031-A","team_id":"stallions","matches":26,"points":350,"assists":340,"defeats":266,"kda_avg":3.6412,"kda_pond":3.9345,"rank_overall":100,"rank_role":20,"bonus":2,"champion":true}
+{"season":"2031-B","team_id":"stallions","matches":14,"points":152,"assists":194,"defeats":172,"kda_avg":4.3359,"kda_pond":4.2791,"rank_overall":60,"rank_role":13,"bonus":1,"champion":false}

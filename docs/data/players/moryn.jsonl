@@ -9,3 +9,4 @@
 {"season":"2030-A","team_id":"wolves","matches":21,"points":258,"assists":232,"defeats":220,"kda_avg":4.0613,"kda_pond":4.0363,"rank_overall":59,"rank_role":12,"bonus":0,"champion":false}
 {"season":"2030-B","team_id":"wolves","matches":14,"points":152,"assists":143,"defeats":143,"kda_avg":3.0727,"kda_pond":3.5723,"rank_overall":112,"rank_role":19,"bonus":0,"champion":false}
 {"season":"2031-A","team_id":"wolves","matches":18,"points":180,"assists":174,"defeats":149,"kda_avg":4.0798,"kda_pond":4.3401,"rank_overall":76,"rank_role":20,"bonus":0,"champion":false}
+{"season":"2031-B","team_id":"wolves","matches":27,"points":291,"assists":332,"defeats":252,"kda_avg":3.9762,"kda_pond":4.0698,"rank_overall":70,"rank_role":13,"bonus":0,"champion":true}

@@ -7,3 +7,4 @@
 {"season":"2029-A","team_id":"scorpions","matches":16,"points":196,"assists":179,"defeats":190,"kda_avg":2.3402,"kda_pond":3.0392,"rank_overall":153,"rank_role":31,"bonus":0,"champion":false}
 {"season":"2030-A","team_id":"barracudas","matches":14,"points":145,"assists":115,"defeats":179,"kda_avg":2.6615,"kda_pond":3.2122,"rank_overall":128,"rank_role":30,"bonus":0,"champion":false}
 {"season":"2031-A","team_id":"hyenas","matches":17,"points":174,"assists":180,"defeats":167,"kda_avg":5.2684,"kda_pond":4.9522,"rank_overall":42,"rank_role":9,"bonus":0,"champion":false}
+{"season":"2031-B","team_id":"hyenas","matches":14,"points":161,"assists":146,"defeats":159,"kda_avg":3.5398,"kda_pond":3.8147,"rank_overall":92,"rank_role":20,"bonus":0,"champion":false}

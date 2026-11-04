@@ -8,3 +8,4 @@
 {"season":"2030-A","team_id":"hornets","matches":17,"points":247,"assists":219,"defeats":149,"kda_avg":6.379,"kda_pond":5.4481,"rank_overall":13,"rank_role":6,"bonus":2,"champion":false}
 {"season":"2030-B","team_id":"hornets","matches":27,"points":312,"assists":353,"defeats":270,"kda_avg":4.3219,"kda_pond":4.5341,"rank_overall":50,"rank_role":9,"bonus":2,"champion":false}
 {"season":"2031-A","team_id":"hornets","matches":14,"points":147,"assists":140,"defeats":139,"kda_avg":3.0931,"kda_pond":3.6694,"rank_overall":120,"rank_role":21,"bonus":2,"champion":false}
+{"season":"2031-B","team_id":"hornets","matches":14,"points":145,"assists":134,"defeats":120,"kda_avg":5.062,"kda_pond":4.7027,"rank_overall":42,"rank_role":8,"bonus":1,"champion":false}
