@@ -9,3 +9,4 @@
 {"season":"2030-A","team_id":"sharks","matches":14,"points":130,"assists":149,"defeats":166,"kda_avg":2.3009,"kda_pond":3.0018,"rank_overall":143,"rank_role":31,"bonus":0,"champion":false}
 {"season":"2031-A","team_id":"bears","matches":22,"points":255,"assists":229,"defeats":290,"kda_avg":3.0877,"kda_pond":3.2597,"rank_overall":145,"rank_role":27,"bonus":0,"champion":false}
 {"season":"2031-B","team_id":"bears","matches":21,"points":204,"assists":233,"defeats":186,"kda_avg":3.6522,"kda_pond":3.8331,"rank_overall":89,"rank_role":22,"bonus":0,"champion":false}
+{"season":"2032-A","team_id":"bears","matches":28,"points":328,"assists":273,"defeats":324,"kda_avg":3.5888,"kda_pond":3.5374,"rank_overall":111,"rank_role":19,"bonus":0,"champion":true}

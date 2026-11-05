@@ -8,3 +8,4 @@
 {"season":"2030-A","team_id":"bears","matches":26,"points":221,"assists":312,"defeats":261,"kda_avg":3.8348,"kda_pond":3.8081,"rank_overall":81,"rank_role":15,"bonus":0,"champion":false}
 {"season":"2030-B","team_id":"bears","matches":16,"points":202,"assists":142,"defeats":201,"kda_avg":2.428,"kda_pond":3.0995,"rank_overall":147,"rank_role":30,"bonus":0,"champion":false}
 {"season":"2031-B","team_id":"scorpions","matches":17,"points":196,"assists":166,"defeats":183,"kda_avg":5.1428,"kda_pond":4.7133,"rank_overall":41,"rank_role":7,"bonus":0,"champion":false}
+{"season":"2032-A","team_id":"scorpions","matches":14,"points":129,"assists":131,"defeats":172,"kda_avg":2.0605,"kda_pond":2.9671,"rank_overall":153,"rank_role":32,"bonus":0,"champion":false}

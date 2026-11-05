@@ -8,3 +8,4 @@
 {"season":"2030-A","team_id":"hyenas","matches":16,"points":159,"assists":175,"defeats":164,"kda_avg":3.8424,"kda_pond":3.8503,"rank_overall":73,"rank_role":19,"bonus":1,"champion":false}
 {"season":"2030-B","team_id":"hyenas","matches":16,"points":145,"assists":147,"defeats":190,"kda_avg":1.8352,"kda_pond":2.7615,"rank_overall":158,"rank_role":32,"bonus":0,"champion":false}
 {"season":"2031-B","team_id":"komodos","matches":14,"points":151,"assists":130,"defeats":160,"kda_avg":2.7925,"kda_pond":3.3788,"rank_overall":127,"rank_role":26,"bonus":0,"champion":false}
+{"season":"2032-A","team_id":"komodos","matches":14,"points":128,"assists":141,"defeats":153,"kda_avg":3.3392,"kda_pond":3.713,"rank_overall":98,"rank_role":19,"bonus":0,"champion":false}
