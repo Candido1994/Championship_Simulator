@@ -11,3 +11,4 @@
 {"season":"2031-A","team_id":"stallions","matches":26,"points":295,"assists":239,"defeats":301,"kda_avg":3.1304,"kda_pond":3.4565,"rank_overall":133,"rank_role":29,"bonus":0,"champion":true}
 {"season":"2031-B","team_id":"stallions","matches":14,"points":152,"assists":153,"defeats":145,"kda_avg":3.5073,"kda_pond":3.7958,"rank_overall":95,"rank_role":17,"bonus":0,"champion":false}
 {"season":"2032-A","team_id":"stallions","matches":19,"points":206,"assists":219,"defeats":225,"kda_avg":4.1525,"kda_pond":4.13,"rank_overall":72,"rank_role":15,"bonus":0,"champion":false}
+{"season":"2032-B","team_id":"stallions","matches":14,"points":118,"assists":142,"defeats":166,"kda_avg":1.9886,"kda_pond":2.9478,"rank_overall":151,"rank_role":30,"bonus":0,"champion":false}

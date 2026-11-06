@@ -10,3 +10,4 @@
 {"season":"2030-B","team_id":"gorillas","matches":16,"points":198,"assists":189,"defeats":207,"kda_avg":2.0982,"kda_pond":2.9528,"rank_overall":152,"rank_role":31,"bonus":2,"champion":false}
 {"season":"2031-B","team_id":"barracudas","matches":14,"points":182,"assists":155,"defeats":145,"kda_avg":4.4512,"kda_pond":4.3464,"rank_overall":55,"rank_role":15,"bonus":1,"champion":false}
 {"season":"2032-A","team_id":"barracudas","matches":17,"points":180,"assists":193,"defeats":185,"kda_avg":2.8232,"kda_pond":3.2963,"rank_overall":131,"rank_role":28,"bonus":1,"champion":false}
+{"season":"2032-B","team_id":"barracudas","matches":16,"points":176,"assists":191,"defeats":175,"kda_avg":5.2346,"kda_pond":5.1438,"rank_overall":28,"rank_role":7,"bonus":0,"champion":false}

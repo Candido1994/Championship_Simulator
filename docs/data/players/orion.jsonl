@@ -9,3 +9,4 @@
 {"season":"2030-B","team_id":"leopards","matches":14,"points":126,"assists":131,"defeats":160,"kda_avg":2.6907,"kda_pond":3.3495,"rank_overall":129,"rank_role":30,"bonus":0,"champion":false}
 {"season":"2031-B","team_id":"piranhas","matches":14,"points":148,"assists":152,"defeats":117,"kda_avg":6.4397,"kda_pond":5.5064,"rank_overall":21,"rank_role":3,"bonus":0,"champion":false}
 {"season":"2032-A","team_id":"piranhas","matches":16,"points":186,"assists":203,"defeats":150,"kda_avg":5.1075,"kda_pond":4.7228,"rank_overall":47,"rank_role":11,"bonus":1,"champion":false}
+{"season":"2032-B","team_id":"piranhas","matches":18,"points":243,"assists":235,"defeats":182,"kda_avg":3.909,"kda_pond":4.2864,"rank_overall":67,"rank_role":18,"bonus":1,"champion":false}

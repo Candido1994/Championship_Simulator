@@ -9,3 +9,4 @@
 {"season":"2030-B","team_id":"tigers","matches":16,"points":175,"assists":156,"defeats":161,"kda_avg":4.5941,"kda_pond":4.6405,"rank_overall":47,"rank_role":13,"bonus":0,"champion":false}
 {"season":"2031-A","team_id":"tigers","matches":14,"points":125,"assists":163,"defeats":184,"kda_avg":2.0471,"kda_pond":3.0593,"rank_overall":156,"rank_role":32,"bonus":0,"champion":false}
 {"season":"2032-A","team_id":"owls","matches":18,"points":195,"assists":217,"defeats":233,"kda_avg":2.9965,"kda_pond":3.5246,"rank_overall":113,"rank_role":20,"bonus":0,"champion":false}
+{"season":"2032-B","team_id":"owls","matches":20,"points":234,"assists":193,"defeats":200,"kda_avg":3.196,"kda_pond":3.4771,"rank_overall":118,"rank_role":28,"bonus":0,"champion":false}

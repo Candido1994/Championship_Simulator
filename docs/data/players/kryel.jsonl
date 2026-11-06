@@ -10,3 +10,4 @@
 {"season":"2030-B","team_id":"vipers","matches":21,"points":260,"assists":241,"defeats":236,"kda_avg":3.0727,"kda_pond":3.3198,"rank_overall":130,"rank_role":27,"bonus":0,"champion":false}
 {"season":"2031-A","team_id":"vipers","matches":17,"points":169,"assists":180,"defeats":215,"kda_avg":2.3081,"kda_pond":3.0897,"rank_overall":154,"rank_role":31,"bonus":0,"champion":false}
 {"season":"2032-A","team_id":"rhinos","matches":20,"points":228,"assists":170,"defeats":192,"kda_avg":3.4935,"kda_pond":3.7994,"rank_overall":90,"rank_role":18,"bonus":0,"champion":false}
+{"season":"2032-B","team_id":"rhinos","matches":14,"points":165,"assists":136,"defeats":134,"kda_avg":3.2522,"kda_pond":3.6849,"rank_overall":107,"rank_role":26,"bonus":0,"champion":false}

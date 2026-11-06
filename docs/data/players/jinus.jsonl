@@ -11,3 +11,4 @@
 {"season":"2031-A","team_id":"wolves","matches":18,"points":196,"assists":200,"defeats":115,"kda_avg":4.6585,"kda_pond":4.4997,"rank_overall":70,"rank_role":15,"bonus":2,"champion":false}
 {"season":"2031-B","team_id":"wolves","matches":27,"points":309,"assists":301,"defeats":196,"kda_avg":7.3389,"kda_pond":7.1304,"rank_overall":1,"rank_role":1,"bonus":2,"champion":true}
 {"season":"2032-A","team_id":"sharks","matches":14,"points":235,"assists":201,"defeats":133,"kda_avg":6.441,"kda_pond":5.5224,"rank_overall":15,"rank_role":4,"bonus":4,"champion":false}
+{"season":"2032-B","team_id":"sharks","matches":14,"points":218,"assists":200,"defeats":105,"kda_avg":7.6248,"kda_pond":6.2356,"rank_overall":8,"rank_role":1,"bonus":5,"champion":false}

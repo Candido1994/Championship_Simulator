@@ -10,3 +10,4 @@
 {"season":"2031-A","team_id":"lions","matches":14,"points":167,"assists":136,"defeats":154,"kda_avg":4.0965,"kda_pond":4.2547,"rank_overall":82,"rank_role":19,"bonus":0,"champion":false}
 {"season":"2031-B","team_id":"crocodiles","matches":16,"points":175,"assists":205,"defeats":193,"kda_avg":2.706,"kda_pond":3.2818,"rank_overall":136,"rank_role":29,"bonus":0,"champion":false}
 {"season":"2032-A","team_id":"crocodiles","matches":16,"points":173,"assists":172,"defeats":153,"kda_avg":5.243,"kda_pond":4.8883,"rank_overall":39,"rank_role":9,"bonus":0,"champion":false}
+{"season":"2032-B","team_id":"crocodiles","matches":14,"points":174,"assists":135,"defeats":187,"kda_avg":2.5005,"kda_pond":3.2464,"rank_overall":137,"rank_role":30,"bonus":0,"champion":false}
