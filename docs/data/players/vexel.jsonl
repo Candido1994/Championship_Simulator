@@ -10,3 +10,4 @@
 {"season":"2031-A","team_id":"ravens","matches":14,"points":147,"assists":162,"defeats":138,"kda_avg":3.3035,"kda_pond":3.7921,"rank_overall":110,"rank_role":20,"bonus":0,"champion":false}
 {"season":"2031-B","team_id":"ravens","matches":14,"points":175,"assists":163,"defeats":161,"kda_avg":2.7417,"kda_pond":3.3492,"rank_overall":134,"rank_role":30,"bonus":0,"champion":false}
 {"season":"2032-B","team_id":"hornets","matches":14,"points":168,"assists":162,"defeats":165,"kda_avg":4.2873,"kda_pond":4.2887,"rank_overall":66,"rank_role":17,"bonus":0,"champion":false}
+{"season":"2033-A","team_id":"hornets","matches":14,"points":135,"assists":187,"defeats":131,"kda_avg":3.7448,"kda_pond":3.9496,"rank_overall":78,"rank_role":11,"bonus":0,"champion":false}
