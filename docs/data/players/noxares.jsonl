@@ -11,3 +11,4 @@
 {"season":"2031-A","team_id":"scorpions","matches":14,"points":166,"assists":159,"defeats":147,"kda_avg":2.6203,"kda_pond":3.3936,"rank_overall":135,"rank_role":30,"bonus":1,"champion":false}
 {"season":"2032-A","team_id":"leopards","matches":14,"points":136,"assists":157,"defeats":145,"kda_avg":2.3423,"kda_pond":3.1315,"rank_overall":142,"rank_role":31,"bonus":0,"champion":false}
 {"season":"2033-A","team_id":"hyenas","matches":16,"points":177,"assists":188,"defeats":174,"kda_avg":3.3956,"kda_pond":3.6855,"rank_overall":97,"rank_role":20,"bonus":0,"champion":false}
+{"season":"2033-B","team_id":"hyenas","matches":17,"points":189,"assists":203,"defeats":169,"kda_avg":5.1432,"kda_pond":4.842,"rank_overall":35,"rank_role":7,"bonus":0,"champion":false}

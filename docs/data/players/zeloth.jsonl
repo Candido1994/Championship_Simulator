@@ -13,3 +13,4 @@
 {"season":"2032-A","team_id":"eagles","matches":14,"points":160,"assists":170,"defeats":98,"kda_avg":7.5961,"kda_pond":6.1962,"rank_overall":7,"rank_role":1,"bonus":2,"champion":false}
 {"season":"2032-B","team_id":"eagles","matches":14,"points":211,"assists":226,"defeats":134,"kda_avg":8.6596,"kda_pond":6.8392,"rank_overall":3,"rank_role":2,"bonus":3,"champion":false}
 {"season":"2033-A","team_id":"eagles","matches":14,"points":189,"assists":224,"defeats":134,"kda_avg":4.6424,"kda_pond":4.4732,"rank_overall":54,"rank_role":7,"bonus":4,"champion":false}
+{"season":"2033-B","team_id":"eagles","matches":16,"points":244,"assists":219,"defeats":138,"kda_avg":5.4837,"kda_pond":5.1093,"rank_overall":27,"rank_role":8,"bonus":4,"champion":false}

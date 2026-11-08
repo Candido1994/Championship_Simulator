@@ -11,3 +11,4 @@
 {"season":"2031-B","team_id":"eagles","matches":19,"points":185,"assists":167,"defeats":194,"kda_avg":2.9349,"kda_pond":3.3601,"rank_overall":131,"rank_role":27,"bonus":0,"champion":false}
 {"season":"2032-A","team_id":"eagles","matches":14,"points":142,"assists":167,"defeats":175,"kda_avg":2.1464,"kda_pond":3.0172,"rank_overall":148,"rank_role":31,"bonus":0,"champion":false}
 {"season":"2033-A","team_id":"piranhas","matches":14,"points":127,"assists":122,"defeats":98,"kda_avg":5.9501,"kda_pond":5.236,"rank_overall":26,"rank_role":7,"bonus":0,"champion":false}
+{"season":"2033-B","team_id":"piranhas","matches":14,"points":133,"assists":152,"defeats":156,"kda_avg":3.8388,"kda_pond":4.0443,"rank_overall":91,"rank_role":22,"bonus":0,"champion":false}

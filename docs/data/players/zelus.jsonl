@@ -13,3 +13,4 @@
 {"season":"2032-A","team_id":"mantis","matches":25,"points":265,"assists":235,"defeats":256,"kda_avg":5.6947,"kda_pond":5.5464,"rank_overall":14,"rank_role":3,"bonus":0,"champion":false}
 {"season":"2032-B","team_id":"mantis","matches":21,"points":278,"assists":281,"defeats":190,"kda_avg":5.5635,"kda_pond":5.1817,"rank_overall":26,"rank_role":5,"bonus":1,"champion":false}
 {"season":"2033-A","team_id":"mantis","matches":25,"points":346,"assists":312,"defeats":253,"kda_avg":3.3281,"kda_pond":3.8319,"rank_overall":87,"rank_role":18,"bonus":2,"champion":true}
+{"season":"2033-B","team_id":"mantis","matches":16,"points":212,"assists":195,"defeats":155,"kda_avg":5.8965,"kda_pond":5.2204,"rank_overall":24,"rank_role":3,"bonus":1,"champion":false}

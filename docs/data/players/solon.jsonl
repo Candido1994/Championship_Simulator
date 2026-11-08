@@ -11,3 +11,4 @@
 {"season":"2032-A","team_id":"rhinos","matches":20,"points":200,"assists":166,"defeats":203,"kda_avg":2.7627,"kda_pond":3.2077,"rank_overall":135,"rank_role":29,"bonus":0,"champion":false}
 {"season":"2032-B","team_id":"rhinos","matches":14,"points":144,"assists":169,"defeats":181,"kda_avg":3.2216,"kda_pond":3.667,"rank_overall":108,"rank_role":23,"bonus":0,"champion":false}
 {"season":"2033-A","team_id":"rhinos","matches":19,"points":190,"assists":198,"defeats":169,"kda_avg":4.3171,"kda_pond":4.6955,"rank_overall":41,"rank_role":4,"bonus":0,"champion":false}
+{"season":"2033-B","team_id":"rhinos","matches":20,"points":253,"assists":205,"defeats":185,"kda_avg":3.0218,"kda_pond":3.4,"rank_overall":136,"rank_role":25,"bonus":1,"champion":false}
