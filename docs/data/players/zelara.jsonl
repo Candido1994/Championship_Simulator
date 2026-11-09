@@ -14,3 +14,4 @@
 {"season":"2032-B","team_id":"vipers","matches":16,"points":299,"assists":233,"defeats":123,"kda_avg":8.0726,"kda_pond":6.561,"rank_overall":5,"rank_role":1,"bonus":5,"champion":false}
 {"season":"2033-A","team_id":"vipers","matches":19,"points":301,"assists":303,"defeats":100,"kda_avg":12.558,"kda_pond":10.1479,"rank_overall":1,"rank_role":1,"bonus":5,"champion":false}
 {"season":"2033-B","team_id":"buffalos","matches":27,"points":440,"assists":397,"defeats":235,"kda_avg":5.4762,"kda_pond":4.97,"rank_overall":31,"rank_role":5,"bonus":5,"champion":true}
+{"season":"2034-A","team_id":"buffalos","matches":14,"points":196,"assists":225,"defeats":125,"kda_avg":5.4522,"kda_pond":4.958,"rank_overall":33,"rank_role":8,"bonus":5,"champion":false}
