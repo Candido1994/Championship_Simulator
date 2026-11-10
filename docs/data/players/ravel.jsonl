@@ -14,3 +14,4 @@
 {"season":"2032-B","team_id":"eagles","matches":14,"points":146,"assists":166,"defeats":184,"kda_avg":1.9865,"kda_pond":2.9465,"rank_overall":153,"rank_role":32,"bonus":1,"champion":false}
 {"season":"2033-B","team_id":"komodos","matches":16,"points":177,"assists":167,"defeats":189,"kda_avg":3.0664,"kda_pond":3.5182,"rank_overall":129,"rank_role":25,"bonus":0,"champion":false}
 {"season":"2034-A","team_id":"komodos","matches":14,"points":138,"assists":121,"defeats":123,"kda_avg":5.2372,"kda_pond":4.8326,"rank_overall":39,"rank_role":5,"bonus":0,"champion":false}
+{"season":"2034-B","team_id":"komodos","matches":16,"points":193,"assists":225,"defeats":159,"kda_avg":3.9005,"kda_pond":4.1004,"rank_overall":86,"rank_role":19,"bonus":1,"champion":false}

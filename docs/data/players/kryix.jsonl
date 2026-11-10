@@ -13,3 +13,4 @@
 {"season":"2032-B","team_id":"sharks","matches":14,"points":126,"assists":98,"defeats":202,"kda_avg":1.2414,"kda_pond":2.512,"rank_overall":160,"rank_role":32,"bonus":0,"champion":false}
 {"season":"2033-B","team_id":"barracudas","matches":16,"points":169,"assists":141,"defeats":170,"kda_avg":3.2678,"kda_pond":3.6215,"rank_overall":121,"rank_role":23,"bonus":0,"champion":false}
 {"season":"2034-A","team_id":"barracudas","matches":14,"points":189,"assists":146,"defeats":120,"kda_avg":7.2676,"kda_pond":6.017,"rank_overall":19,"rank_role":2,"bonus":0,"champion":false}
+{"season":"2034-B","team_id":"barracudas","matches":18,"points":224,"assists":199,"defeats":182,"kda_avg":5.4234,"kda_pond":4.9304,"rank_overall":41,"rank_role":9,"bonus":1,"champion":false}

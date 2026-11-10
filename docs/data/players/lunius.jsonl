@@ -14,3 +14,4 @@
 {"season":"2033-A","team_id":"foxes","matches":14,"points":160,"assists":172,"defeats":128,"kda_avg":5.2255,"kda_pond":4.8133,"rank_overall":38,"rank_role":9,"bonus":1,"champion":false}
 {"season":"2033-B","team_id":"foxes","matches":14,"points":145,"assists":160,"defeats":171,"kda_avg":2.2718,"kda_pond":3.1302,"rank_overall":150,"rank_role":29,"bonus":1,"champion":false}
 {"season":"2034-A","team_id":"vipers","matches":14,"points":154,"assists":137,"defeats":191,"kda_avg":2.3441,"kda_pond":3.1449,"rank_overall":142,"rank_role":29,"bonus":0,"champion":false}
+{"season":"2034-B","team_id":"vipers","matches":14,"points":178,"assists":157,"defeats":153,"kda_avg":3.9322,"kda_pond":4.1575,"rank_overall":81,"rank_role":17,"bonus":0,"champion":false}

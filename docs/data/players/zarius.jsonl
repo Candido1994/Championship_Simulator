@@ -11,3 +11,4 @@
 {"season":"2032-A","team_id":"piranhas","matches":16,"points":200,"assists":209,"defeats":135,"kda_avg":5.5071,"kda_pond":4.9648,"rank_overall":35,"rank_role":5,"bonus":0,"champion":false}
 {"season":"2032-B","team_id":"piranhas","matches":18,"points":158,"assists":192,"defeats":199,"kda_avg":2.8502,"kda_pond":3.389,"rank_overall":127,"rank_role":30,"bonus":1,"champion":false}
 {"season":"2033-B","team_id":"buffalos","matches":27,"points":332,"assists":246,"defeats":315,"kda_avg":2.7818,"kda_pond":2.9257,"rank_overall":158,"rank_role":31,"bonus":0,"champion":true}
+{"season":"2034-B","team_id":"wolverines","matches":14,"points":104,"assists":176,"defeats":125,"kda_avg":3.4602,"kda_pond":3.8822,"rank_overall":97,"rank_role":21,"bonus":0,"champion":false}
