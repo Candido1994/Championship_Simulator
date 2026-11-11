@@ -15,3 +15,4 @@
 {"season":"2033-A","team_id":"mantis","matches":25,"points":245,"assists":245,"defeats":299,"kda_avg":2.643,"kda_pond":3.1899,"rank_overall":140,"rank_role":31,"bonus":0,"champion":true}
 {"season":"2034-A","team_id":"crocodiles","matches":14,"points":167,"assists":120,"defeats":185,"kda_avg":2.5847,"kda_pond":3.2852,"rank_overall":130,"rank_role":25,"bonus":0,"champion":false}
 {"season":"2034-B","team_id":"crocodiles","matches":16,"points":208,"assists":152,"defeats":154,"kda_avg":5.8653,"kda_pond":5.3059,"rank_overall":31,"rank_role":7,"bonus":0,"champion":false}
+{"season":"2035-A","team_id":"crocodiles","matches":14,"points":159,"assists":181,"defeats":142,"kda_avg":3.9793,"kda_pond":4.1735,"rank_overall":81,"rank_role":16,"bonus":0,"champion":false}

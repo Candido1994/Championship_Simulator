@@ -15,3 +15,4 @@
 {"season":"2033-B","team_id":"falcons","matches":14,"points":235,"assists":182,"defeats":114,"kda_avg":4.8149,"kda_pond":4.6136,"rank_overall":45,"rank_role":7,"bonus":5,"champion":false}
 {"season":"2034-A","team_id":"falcons","matches":16,"points":252,"assists":261,"defeats":132,"kda_avg":7.141,"kda_pond":5.9632,"rank_overall":20,"rank_role":5,"bonus":5,"champion":false}
 {"season":"2034-B","team_id":"falcons","matches":17,"points":236,"assists":282,"defeats":157,"kda_avg":4.5971,"kda_pond":4.6141,"rank_overall":56,"rank_role":12,"bonus":5,"champion":false}
+{"season":"2035-A","team_id":"falcons","matches":26,"points":460,"assists":397,"defeats":195,"kda_avg":8.7977,"kda_pond":8.6036,"rank_overall":1,"rank_role":1,"bonus":5,"champion":true}
