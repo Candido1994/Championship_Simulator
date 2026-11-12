@@ -17,3 +17,4 @@
 {"season":"2034-A","team_id":"wolverines","matches":14,"points":272,"assists":234,"defeats":110,"kda_avg":11.1828,"kda_pond":8.3008,"rank_overall":1,"rank_role":1,"bonus":5,"champion":false}
 {"season":"2034-B","team_id":"foxes","matches":14,"points":212,"assists":176,"defeats":123,"kda_avg":6.0842,"kda_pond":5.4128,"rank_overall":30,"rank_role":6,"bonus":5,"champion":false}
 {"season":"2035-A","team_id":"foxes","matches":14,"points":178,"assists":214,"defeats":112,"kda_avg":4.0181,"kda_pond":4.1962,"rank_overall":79,"rank_role":14,"bonus":5,"champion":false}
+{"season":"2035-B","team_id":"foxes","matches":16,"points":277,"assists":227,"defeats":134,"kda_avg":4.9819,"kda_pond":4.6388,"rank_overall":45,"rank_role":12,"bonus":5,"champion":false}

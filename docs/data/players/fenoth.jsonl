@@ -16,3 +16,4 @@
 {"season":"2034-A","team_id":"lions","matches":18,"points":293,"assists":274,"defeats":149,"kda_avg":7.371,"kda_pond":6.3398,"rank_overall":8,"rank_role":3,"bonus":5,"champion":false}
 {"season":"2034-B","team_id":"lions","matches":17,"points":262,"assists":277,"defeats":132,"kda_avg":7.575,"kda_pond":6.478,"rank_overall":13,"rank_role":1,"bonus":5,"champion":false}
 {"season":"2035-A","team_id":"lions","matches":14,"points":217,"assists":211,"defeats":123,"kda_avg":3.8135,"kda_pond":4.0768,"rank_overall":89,"rank_role":18,"bonus":5,"champion":false}
+{"season":"2035-B","team_id":"lions","matches":14,"points":198,"assists":242,"defeats":117,"kda_avg":4.8459,"kda_pond":4.5876,"rank_overall":47,"rank_role":13,"bonus":4,"champion":false}

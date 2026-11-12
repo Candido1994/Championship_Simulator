@@ -15,3 +15,4 @@
 {"season":"2033-B","team_id":"tigers","matches":14,"points":140,"assists":150,"defeats":129,"kda_avg":4.0356,"kda_pond":4.1591,"rank_overall":79,"rank_role":17,"bonus":0,"champion":false}
 {"season":"2034-A","team_id":"tigers","matches":14,"points":117,"assists":120,"defeats":193,"kda_avg":1.5299,"kda_pond":2.67,"rank_overall":159,"rank_role":32,"bonus":0,"champion":false}
 {"season":"2035-A","team_id":"sharks","matches":14,"points":148,"assists":120,"defeats":150,"kda_avg":2.5651,"kda_pond":3.3485,"rank_overall":136,"rank_role":27,"bonus":0,"champion":false}
+{"season":"2035-B","team_id":"sharks","matches":14,"points":71,"assists":132,"defeats":139,"kda_avg":2.8287,"kda_pond":3.4109,"rank_overall":118,"rank_role":25,"bonus":0,"champion":false}

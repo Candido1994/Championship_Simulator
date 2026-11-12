@@ -15,3 +15,4 @@
 {"season":"2033-B","team_id":"wolverines","matches":20,"points":188,"assists":209,"defeats":217,"kda_avg":4.3399,"kda_pond":4.3075,"rank_overall":63,"rank_role":12,"bonus":0,"champion":false}
 {"season":"2034-A","team_id":"wolverines","matches":14,"points":112,"assists":118,"defeats":169,"kda_avg":1.5528,"kda_pond":2.6833,"rank_overall":158,"rank_role":32,"bonus":0,"champion":false}
 {"season":"2035-A","team_id":"gorillas","matches":21,"points":256,"assists":261,"defeats":187,"kda_avg":4.7321,"kda_pond":4.4827,"rank_overall":60,"rank_role":10,"bonus":0,"champion":false}
+{"season":"2035-B","team_id":"gorillas","matches":14,"points":188,"assists":143,"defeats":138,"kda_avg":5.4015,"kda_pond":4.9117,"rank_overall":34,"rank_role":5,"bonus":0,"champion":false}
