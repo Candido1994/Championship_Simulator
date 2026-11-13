@@ -13,3 +13,4 @@
 {"season":"2034-A","team_id":"gorillas","matches":19,"points":189,"assists":216,"defeats":194,"kda_avg":3.0015,"kda_pond":3.3797,"rank_overall":124,"rank_role":26,"bonus":1,"champion":false}
 {"season":"2034-B","team_id":"gorillas","matches":14,"points":125,"assists":175,"defeats":194,"kda_avg":1.7504,"kda_pond":2.8848,"rank_overall":159,"rank_role":32,"bonus":0,"champion":false}
 {"season":"2035-B","team_id":"wolves","matches":14,"points":144,"assists":146,"defeats":158,"kda_avg":2.3441,"kda_pond":3.1282,"rank_overall":146,"rank_role":28,"bonus":0,"champion":false}
+{"season":"2036-A","team_id":"wolves","matches":14,"points":151,"assists":172,"defeats":138,"kda_avg":5.3239,"kda_pond":4.9062,"rank_overall":38,"rank_role":10,"bonus":0,"champion":false}

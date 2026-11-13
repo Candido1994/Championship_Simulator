@@ -15,3 +15,4 @@
 {"season":"2034-A","team_id":"ravens","matches":27,"points":285,"assists":329,"defeats":333,"kda_avg":2.4046,"kda_pond":2.6382,"rank_overall":160,"rank_role":32,"bonus":0,"champion":false}
 {"season":"2035-A","team_id":"condors","matches":14,"points":160,"assists":110,"defeats":157,"kda_avg":2.961,"kda_pond":3.5795,"rank_overall":117,"rank_role":22,"bonus":0,"champion":false}
 {"season":"2035-B","team_id":"condors","matches":14,"points":123,"assists":156,"defeats":125,"kda_avg":3.0682,"kda_pond":3.5506,"rank_overall":108,"rank_role":23,"bonus":0,"champion":false}
+{"season":"2036-A","team_id":"condors","matches":14,"points":130,"assists":156,"defeats":176,"kda_avg":1.9795,"kda_pond":2.9553,"rank_overall":156,"rank_role":32,"bonus":0,"champion":false}

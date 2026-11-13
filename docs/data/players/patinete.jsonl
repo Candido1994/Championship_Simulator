@@ -15,3 +15,4 @@
 {"season":"2034-A","team_id":"owls","matches":19,"points":181,"assists":220,"defeats":203,"kda_avg":3.5189,"kda_pond":3.8442,"rank_overall":89,"rank_role":18,"bonus":0,"champion":false}
 {"season":"2034-B","team_id":"owls","matches":21,"points":254,"assists":191,"defeats":241,"kda_avg":2.2974,"kda_pond":2.9758,"rank_overall":156,"rank_role":31,"bonus":0,"champion":false}
 {"season":"2035-B","team_id":"sharks","matches":14,"points":133,"assists":154,"defeats":156,"kda_avg":2.7219,"kda_pond":3.3486,"rank_overall":127,"rank_role":22,"bonus":0,"champion":false}
+{"season":"2036-A","team_id":"sharks","matches":16,"points":141,"assists":156,"defeats":160,"kda_avg":4.0946,"kda_pond":4.1335,"rank_overall":81,"rank_role":20,"bonus":0,"champion":false}

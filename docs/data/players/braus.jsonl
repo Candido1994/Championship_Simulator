@@ -16,3 +16,4 @@
 {"season":"2034-A","team_id":"scorpions","matches":21,"points":233,"assists":187,"defeats":227,"kda_avg":2.1793,"kda_pond":2.7877,"rank_overall":157,"rank_role":31,"bonus":1,"champion":false}
 {"season":"2035-A","team_id":"lions","matches":14,"points":126,"assists":144,"defeats":152,"kda_avg":3.2787,"kda_pond":3.7648,"rank_overall":106,"rank_role":21,"bonus":0,"champion":false}
 {"season":"2035-B","team_id":"lions","matches":14,"points":161,"assists":151,"defeats":196,"kda_avg":2.6443,"kda_pond":3.3033,"rank_overall":131,"rank_role":23,"bonus":0,"champion":false}
+{"season":"2036-A","team_id":"lions","matches":19,"points":167,"assists":159,"defeats":198,"kda_avg":2.8709,"kda_pond":3.2836,"rank_overall":140,"rank_role":28,"bonus":0,"champion":false}

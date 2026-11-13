@@ -17,3 +17,4 @@
 {"season":"2034-B","team_id":"falcons","matches":17,"points":236,"assists":282,"defeats":157,"kda_avg":4.5971,"kda_pond":4.6141,"rank_overall":56,"rank_role":12,"bonus":5,"champion":false}
 {"season":"2035-A","team_id":"falcons","matches":26,"points":460,"assists":397,"defeats":195,"kda_avg":8.7977,"kda_pond":8.6036,"rank_overall":1,"rank_role":1,"bonus":5,"champion":true}
 {"season":"2035-B","team_id":"ravens","matches":19,"points":275,"assists":305,"defeats":144,"kda_avg":6.5557,"kda_pond":6.1375,"rank_overall":11,"rank_role":2,"bonus":5,"champion":false}
+{"season":"2036-A","team_id":"ravens","matches":14,"points":183,"assists":211,"defeats":105,"kda_avg":7.5242,"kda_pond":6.1897,"rank_overall":8,"rank_role":2,"bonus":5,"champion":false}
