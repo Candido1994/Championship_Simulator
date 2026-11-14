@@ -19,3 +19,4 @@
 {"season":"2035-A","team_id":"owls","matches":17,"points":296,"assists":293,"defeats":141,"kda_avg":6.7562,"kda_pond":5.9589,"rank_overall":15,"rank_role":3,"bonus":5,"champion":false}
 {"season":"2035-B","team_id":"owls","matches":14,"points":237,"assists":221,"defeats":80,"kda_avg":11.0354,"kda_pond":8.1981,"rank_overall":1,"rank_role":1,"bonus":5,"champion":false}
 {"season":"2036-A","team_id":"bears","matches":21,"points":347,"assists":317,"defeats":123,"kda_avg":9.6516,"kda_pond":8.0721,"rank_overall":1,"rank_role":1,"bonus":5,"champion":false}
+{"season":"2036-B","team_id":"condors","matches":20,"points":288,"assists":283,"defeats":129,"kda_avg":9.3466,"kda_pond":7.4026,"rank_overall":4,"rank_role":1,"bonus":5,"champion":false}

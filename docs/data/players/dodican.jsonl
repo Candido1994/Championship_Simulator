@@ -17,3 +17,4 @@
 {"season":"2035-A","team_id":"buffalos","matches":16,"points":248,"assists":259,"defeats":103,"kda_avg":5.7292,"kda_pond":5.2251,"rank_overall":36,"rank_role":6,"bonus":5,"champion":false}
 {"season":"2035-B","team_id":"buffalos","matches":17,"points":295,"assists":245,"defeats":129,"kda_avg":9.15,"kda_pond":7.4949,"rank_overall":3,"rank_role":1,"bonus":5,"champion":false}
 {"season":"2036-A","team_id":"buffalos","matches":26,"points":383,"assists":449,"defeats":226,"kda_avg":6.5838,"kda_pond":6.0524,"rank_overall":10,"rank_role":1,"bonus":5,"champion":true}
+{"season":"2036-B","team_id":"buffalos","matches":21,"points":317,"assists":283,"defeats":190,"kda_avg":6.9598,"kda_pond":6.2831,"rank_overall":11,"rank_role":3,"bonus":5,"champion":false}

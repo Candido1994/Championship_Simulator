@@ -18,3 +18,4 @@
 {"season":"2035-A","team_id":"rhinos","matches":16,"points":197,"assists":229,"defeats":143,"kda_avg":6.0114,"kda_pond":5.3345,"rank_overall":32,"rank_role":7,"bonus":2,"champion":false}
 {"season":"2035-B","team_id":"rhinos","matches":16,"points":204,"assists":187,"defeats":119,"kda_avg":8.0489,"kda_pond":6.6276,"rank_overall":7,"rank_role":3,"bonus":2,"champion":false}
 {"season":"2036-A","team_id":"rhinos","matches":16,"points":252,"assists":249,"defeats":148,"kda_avg":5.4498,"kda_pond":5.0387,"rank_overall":32,"rank_role":7,"bonus":3,"champion":false}
+{"season":"2036-B","team_id":"rhinos","matches":19,"points":258,"assists":246,"defeats":193,"kda_avg":4.6188,"kda_pond":4.4057,"rank_overall":64,"rank_role":18,"bonus":3,"champion":false}

@@ -16,3 +16,4 @@
 {"season":"2034-B","team_id":"bears","matches":18,"points":212,"assists":211,"defeats":189,"kda_avg":3.3888,"kda_pond":3.7179,"rank_overall":107,"rank_role":20,"bonus":0,"champion":false}
 {"season":"2035-A","team_id":"bears","matches":19,"points":176,"assists":180,"defeats":220,"kda_avg":2.1818,"kda_pond":2.8903,"rank_overall":155,"rank_role":30,"bonus":0,"champion":false}
 {"season":"2036-A","team_id":"lynxes","matches":19,"points":205,"assists":184,"defeats":209,"kda_avg":2.6567,"kda_pond":3.2207,"rank_overall":146,"rank_role":29,"bonus":0,"champion":false}
+{"season":"2036-B","team_id":"lynxes","matches":16,"points":178,"assists":128,"defeats":159,"kda_avg":5.1423,"kda_pond":4.765,"rank_overall":38,"rank_role":11,"bonus":0,"champion":false}

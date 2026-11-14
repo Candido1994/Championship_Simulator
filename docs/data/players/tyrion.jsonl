@@ -19,3 +19,4 @@
 {"season":"2035-A","team_id":"hyenas","matches":14,"points":223,"assists":225,"defeats":131,"kda_avg":5.7538,"kda_pond":5.2086,"rank_overall":37,"rank_role":7,"bonus":5,"champion":false}
 {"season":"2035-B","team_id":"hyenas","matches":27,"points":437,"assists":462,"defeats":228,"kda_avg":6.4363,"kda_pond":5.8425,"rank_overall":14,"rank_role":2,"bonus":5,"champion":true}
 {"season":"2036-A","team_id":"hyenas","matches":14,"points":244,"assists":187,"defeats":118,"kda_avg":6.0505,"kda_pond":5.33,"rank_overall":23,"rank_role":5,"bonus":5,"champion":false}
+{"season":"2036-B","team_id":"hyenas","matches":14,"points":231,"assists":219,"defeats":87,"kda_avg":9.7325,"kda_pond":7.4883,"rank_overall":2,"rank_role":2,"bonus":5,"champion":false}

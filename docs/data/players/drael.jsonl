@@ -18,3 +18,4 @@
 {"season":"2035-A","team_id":"barracudas","matches":18,"points":212,"assists":213,"defeats":194,"kda_avg":4.4088,"kda_pond":4.3247,"rank_overall":71,"rank_role":12,"bonus":1,"champion":false}
 {"season":"2035-B","team_id":"barracudas","matches":14,"points":160,"assists":157,"defeats":152,"kda_avg":2.4789,"kda_pond":3.2068,"rank_overall":141,"rank_role":26,"bonus":1,"champion":false}
 {"season":"2036-A","team_id":"barracudas","matches":18,"points":189,"assists":170,"defeats":164,"kda_avg":6.167,"kda_pond":5.4073,"rank_overall":20,"rank_role":5,"bonus":0,"champion":false}
+{"season":"2036-B","team_id":"barracudas","matches":25,"points":266,"assists":290,"defeats":303,"kda_avg":3.2009,"kda_pond":3.5277,"rank_overall":128,"rank_role":24,"bonus":1,"champion":true}

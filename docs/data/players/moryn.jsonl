@@ -17,3 +17,4 @@
 {"season":"2034-B","team_id":"hornets","matches":14,"points":119,"assists":150,"defeats":160,"kda_avg":2.2965,"kda_pond":3.2033,"rank_overall":141,"rank_role":30,"bonus":0,"champion":false}
 {"season":"2035-B","team_id":"hyenas","matches":27,"points":261,"assists":266,"defeats":265,"kda_avg":3.5123,"kda_pond":3.5863,"rank_overall":106,"rank_role":22,"bonus":0,"champion":true}
 {"season":"2036-A","team_id":"hyenas","matches":14,"points":157,"assists":157,"defeats":158,"kda_avg":2.7139,"kda_pond":3.3837,"rank_overall":130,"rank_role":25,"bonus":0,"champion":false}
+{"season":"2036-B","team_id":"hyenas","matches":14,"points":163,"assists":158,"defeats":151,"kda_avg":3.0431,"kda_pond":3.5861,"rank_overall":126,"rank_role":28,"bonus":0,"champion":false}
