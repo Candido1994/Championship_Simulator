@@ -19,3 +19,4 @@
 {"season":"2035-B","team_id":"mantis","matches":18,"points":247,"assists":205,"defeats":173,"kda_avg":3.8288,"kda_pond":3.922,"rank_overall":83,"rank_role":20,"bonus":0,"champion":false}
 {"season":"2036-A","team_id":"mantis","matches":21,"points":249,"assists":205,"defeats":210,"kda_avg":6.9011,"kda_pond":6.4282,"rank_overall":6,"rank_role":3,"bonus":0,"champion":false}
 {"season":"2036-B","team_id":"mantis","matches":23,"points":308,"assists":243,"defeats":265,"kda_avg":3.3792,"kda_pond":3.4796,"rank_overall":131,"rank_role":25,"bonus":1,"champion":false}
+{"season":"2037-A","team_id":"mantis","matches":26,"points":252,"assists":250,"defeats":268,"kda_avg":3.2111,"kda_pond":3.5888,"rank_overall":127,"rank_role":27,"bonus":0,"champion":true}
