@@ -18,3 +18,4 @@
 {"season":"2035-B","team_id":"komodos","matches":14,"points":171,"assists":156,"defeats":143,"kda_avg":6.5763,"kda_pond":5.597,"rank_overall":19,"rank_role":5,"bonus":0,"champion":false}
 {"season":"2036-A","team_id":"komodos","matches":14,"points":147,"assists":191,"defeats":184,"kda_avg":2.2759,"kda_pond":3.1282,"rank_overall":152,"rank_role":32,"bonus":1,"champion":false}
 {"season":"2037-A","team_id":"hawks","matches":14,"points":174,"assists":134,"defeats":139,"kda_avg":5.1597,"kda_pond":4.9037,"rank_overall":49,"rank_role":9,"bonus":0,"champion":false}
+{"season":"2037-B","team_id":"hawks","matches":14,"points":136,"assists":152,"defeats":130,"kda_avg":4.8001,"kda_pond":4.6024,"rank_overall":50,"rank_role":9,"bonus":0,"champion":false}

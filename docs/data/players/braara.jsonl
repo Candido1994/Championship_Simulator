@@ -17,3 +17,4 @@
 {"season":"2035-B","team_id":"eagles","matches":23,"points":215,"assists":254,"defeats":248,"kda_avg":2.5699,"kda_pond":2.9635,"rank_overall":149,"rank_role":30,"bonus":0,"champion":false}
 {"season":"2036-B","team_id":"condors","matches":20,"points":191,"assists":222,"defeats":183,"kda_avg":4.8633,"kda_pond":4.5553,"rank_overall":50,"rank_role":11,"bonus":0,"champion":false}
 {"season":"2037-A","team_id":"condors","matches":14,"points":151,"assists":127,"defeats":141,"kda_avg":3.3035,"kda_pond":3.8209,"rank_overall":112,"rank_role":27,"bonus":0,"champion":false}
+{"season":"2037-B","team_id":"condors","matches":14,"points":144,"assists":90,"defeats":148,"kda_avg":2.3016,"kda_pond":3.145,"rank_overall":144,"rank_role":28,"bonus":0,"champion":false}

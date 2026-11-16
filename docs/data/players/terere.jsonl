@@ -18,3 +18,4 @@
 {"season":"2035-B","team_id":"jaguars","matches":17,"points":193,"assists":176,"defeats":174,"kda_avg":3.1261,"kda_pond":3.4703,"rank_overall":114,"rank_role":24,"bonus":0,"champion":false}
 {"season":"2036-A","team_id":"jaguars","matches":17,"points":135,"assists":183,"defeats":185,"kda_avg":2.5033,"kda_pond":3.1964,"rank_overall":149,"rank_role":30,"bonus":0,"champion":false}
 {"season":"2037-A","team_id":"wolverines","matches":19,"points":173,"assists":198,"defeats":198,"kda_avg":3.9112,"kda_pond":3.9595,"rank_overall":99,"rank_role":20,"bonus":0,"champion":false}
+{"season":"2037-B","team_id":"wolverines","matches":14,"points":110,"assists":136,"defeats":163,"kda_avg":3.1859,"kda_pond":3.6608,"rank_overall":107,"rank_role":22,"bonus":0,"champion":false}

@@ -17,3 +17,4 @@
 {"season":"2035-B","team_id":"eagles","matches":23,"points":254,"assists":292,"defeats":276,"kda_avg":2.579,"kda_pond":2.9335,"rank_overall":150,"rank_role":30,"bonus":0,"champion":false}
 {"season":"2036-B","team_id":"crocodiles","matches":14,"points":177,"assists":140,"defeats":130,"kda_avg":5.8089,"kda_pond":5.1995,"rank_overall":27,"rank_role":7,"bonus":0,"champion":false}
 {"season":"2037-A","team_id":"crocodiles","matches":19,"points":188,"assists":220,"defeats":198,"kda_avg":3.9569,"kda_pond":4.2019,"rank_overall":84,"rank_role":16,"bonus":0,"champion":false}
+{"season":"2037-B","team_id":"crocodiles","matches":14,"points":161,"assists":161,"defeats":139,"kda_avg":4.6541,"kda_pond":4.5172,"rank_overall":54,"rank_role":10,"bonus":0,"champion":false}

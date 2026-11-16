@@ -20,3 +20,4 @@
 {"season":"2035-B","team_id":"wolves","matches":14,"points":164,"assists":135,"defeats":136,"kda_avg":4.9521,"kda_pond":4.6495,"rank_overall":44,"rank_role":9,"bonus":1,"champion":false}
 {"season":"2036-A","team_id":"wolves","matches":14,"points":170,"assists":130,"defeats":173,"kda_avg":2.1298,"kda_pond":3.043,"rank_overall":153,"rank_role":30,"bonus":1,"champion":false}
 {"season":"2037-A","team_id":"vipers","matches":14,"points":123,"assists":181,"defeats":155,"kda_avg":4.0964,"kda_pond":4.2835,"rank_overall":76,"rank_role":12,"bonus":0,"champion":false}
+{"season":"2037-B","team_id":"vipers","matches":14,"points":158,"assists":125,"defeats":167,"kda_avg":3.3607,"kda_pond":3.7628,"rank_overall":98,"rank_role":18,"bonus":0,"champion":false}

@@ -21,3 +21,4 @@
 {"season":"2036-A","team_id":"panthers","matches":17,"points":252,"assists":282,"defeats":140,"kda_avg":4.7492,"kda_pond":4.6842,"rank_overall":47,"rank_role":10,"bonus":5,"champion":false}
 {"season":"2036-B","team_id":"panthers","matches":14,"points":215,"assists":208,"defeats":120,"kda_avg":4.1148,"kda_pond":4.2113,"rank_overall":72,"rank_role":13,"bonus":5,"champion":false}
 {"season":"2037-A","team_id":"panthers","matches":19,"points":325,"assists":275,"defeats":122,"kda_avg":10.8004,"kda_pond":8.2691,"rank_overall":1,"rank_role":1,"bonus":5,"champion":false}
+{"season":"2037-B","team_id":"piranhas","matches":21,"points":329,"assists":351,"defeats":165,"kda_avg":9.4181,"kda_pond":7.7376,"rank_overall":3,"rank_role":2,"bonus":5,"champion":false}
