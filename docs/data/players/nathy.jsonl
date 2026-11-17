@@ -18,3 +18,4 @@
 {"season":"2036-A","team_id":"falcons","matches":16,"points":210,"assists":136,"defeats":184,"kda_avg":4.1276,"kda_pond":4.167,"rank_overall":77,"rank_role":19,"bonus":0,"champion":false}
 {"season":"2036-B","team_id":"falcons","matches":16,"points":151,"assists":150,"defeats":201,"kda_avg":1.6502,"kda_pond":2.6619,"rank_overall":160,"rank_role":32,"bonus":0,"champion":false}
 {"season":"2037-B","team_id":"cobras","matches":14,"points":148,"assists":157,"defeats":115,"kda_avg":7.1254,"kda_pond":5.9588,"rank_overall":19,"rank_role":3,"bonus":0,"champion":false}
+{"season":"2038-A","team_id":"cobras","matches":14,"points":170,"assists":167,"defeats":169,"kda_avg":3.4088,"kda_pond":3.7751,"rank_overall":96,"rank_role":18,"bonus":1,"champion":false}

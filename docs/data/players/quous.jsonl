@@ -21,3 +21,4 @@
 {"season":"2036-B","team_id":"barracudas","matches":25,"points":247,"assists":240,"defeats":215,"kda_avg":4.6108,"kda_pond":4.7801,"rank_overall":37,"rank_role":10,"bonus":0,"champion":true}
 {"season":"2037-A","team_id":"barracudas","matches":16,"points":171,"assists":171,"defeats":180,"kda_avg":3.9737,"kda_pond":4.1868,"rank_overall":85,"rank_role":17,"bonus":0,"champion":false}
 {"season":"2037-B","team_id":"barracudas","matches":16,"points":159,"assists":149,"defeats":190,"kda_avg":3.7597,"kda_pond":3.9896,"rank_overall":80,"rank_role":13,"bonus":0,"champion":false}
+{"season":"2038-A","team_id":"barracudas","matches":26,"points":299,"assists":322,"defeats":254,"kda_avg":4.1234,"kda_pond":3.7408,"rank_overall":98,"rank_role":15,"bonus":0,"champion":true}
