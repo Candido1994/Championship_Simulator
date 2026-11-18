@@ -19,3 +19,4 @@
 {"season":"2036-A","team_id":"tigers","matches":14,"points":113,"assists":127,"defeats":140,"kda_avg":2.3795,"kda_pond":3.1886,"rank_overall":150,"rank_role":31,"bonus":0,"champion":false}
 {"season":"2037-A","team_id":"sharks","matches":14,"points":152,"assists":153,"defeats":171,"kda_avg":2.0871,"kda_pond":3.1113,"rank_overall":153,"rank_role":31,"bonus":0,"champion":false}
 {"season":"2038-A","team_id":"eagles","matches":14,"points":127,"assists":119,"defeats":126,"kda_avg":5.8093,"kda_pond":5.1754,"rank_overall":27,"rank_role":4,"bonus":0,"champion":false}
+{"season":"2038-B","team_id":"eagles","matches":26,"points":313,"assists":325,"defeats":276,"kda_avg":4.1951,"kda_pond":4.2281,"rank_overall":82,"rank_role":16,"bonus":1,"champion":false}

@@ -23,3 +23,4 @@
 {"season":"2037-A","team_id":"jaguars","matches":14,"points":218,"assists":227,"defeats":142,"kda_avg":4.0763,"kda_pond":4.2718,"rank_overall":77,"rank_role":20,"bonus":4,"champion":false}
 {"season":"2037-B","team_id":"jaguars","matches":18,"points":259,"assists":271,"defeats":139,"kda_avg":6.2736,"kda_pond":5.5843,"rank_overall":21,"rank_role":4,"bonus":3,"champion":false}
 {"season":"2038-A","team_id":"jaguars","matches":21,"points":331,"assists":304,"defeats":154,"kda_avg":8.9294,"kda_pond":8.3805,"rank_overall":1,"rank_role":1,"bonus":4,"champion":false}
+{"season":"2038-B","team_id":"vipers","matches":14,"points":264,"assists":219,"defeats":114,"kda_avg":7.4194,"kda_pond":6.2011,"rank_overall":18,"rank_role":4,"bonus":5,"champion":false}

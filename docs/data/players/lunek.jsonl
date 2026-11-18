@@ -20,3 +20,4 @@
 {"season":"2036-A","team_id":"hawks","matches":14,"points":163,"assists":144,"defeats":194,"kda_avg":1.786,"kda_pond":2.8424,"rank_overall":159,"rank_role":32,"bonus":0,"champion":false}
 {"season":"2037-A","team_id":"lions","matches":14,"points":120,"assists":131,"defeats":175,"kda_avg":1.8002,"kda_pond":2.944,"rank_overall":158,"rank_role":31,"bonus":0,"champion":false}
 {"season":"2038-A","team_id":"cobras","matches":14,"points":128,"assists":176,"defeats":139,"kda_avg":3.4481,"kda_pond":3.7981,"rank_overall":93,"rank_role":21,"bonus":0,"champion":false}
+{"season":"2038-B","team_id":"cobras","matches":14,"points":151,"assists":153,"defeats":183,"kda_avg":2.2943,"kda_pond":3.2115,"rank_overall":148,"rank_role":29,"bonus":0,"champion":false}

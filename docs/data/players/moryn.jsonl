@@ -20,3 +20,4 @@
 {"season":"2036-B","team_id":"hyenas","matches":14,"points":163,"assists":158,"defeats":151,"kda_avg":3.0431,"kda_pond":3.5861,"rank_overall":126,"rank_role":28,"bonus":0,"champion":false}
 {"season":"2037-A","team_id":"hyenas","matches":24,"points":236,"assists":250,"defeats":244,"kda_avg":2.7238,"kda_pond":3.1034,"rank_overall":154,"rank_role":30,"bonus":0,"champion":false}
 {"season":"2038-A","team_id":"panthers","matches":14,"points":153,"assists":117,"defeats":148,"kda_avg":5.1364,"kda_pond":4.7829,"rank_overall":42,"rank_role":10,"bonus":0,"champion":false}
+{"season":"2038-B","team_id":"panthers","matches":16,"points":158,"assists":145,"defeats":144,"kda_avg":3.8566,"kda_pond":4.1167,"rank_overall":88,"rank_role":17,"bonus":0,"champion":false}

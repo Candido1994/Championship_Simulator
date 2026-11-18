@@ -22,3 +22,4 @@
 {"season":"2037-A","team_id":"ravens","matches":14,"points":262,"assists":243,"defeats":97,"kda_avg":8.4046,"kda_pond":6.7966,"rank_overall":9,"rank_role":3,"bonus":5,"champion":false}
 {"season":"2037-B","team_id":"ravens","matches":14,"points":226,"assists":229,"defeats":101,"kda_avg":7.7202,"kda_pond":6.3058,"rank_overall":11,"rank_role":2,"bonus":5,"champion":false}
 {"season":"2038-A","team_id":"ravens","matches":16,"points":243,"assists":246,"defeats":124,"kda_avg":6.4508,"kda_pond":5.5564,"rank_overall":20,"rank_role":5,"bonus":5,"champion":false}
+{"season":"2038-B","team_id":"ravens","matches":18,"points":282,"assists":291,"defeats":159,"kda_avg":6.1479,"kda_pond":5.5796,"rank_overall":29,"rank_role":7,"bonus":5,"champion":false}

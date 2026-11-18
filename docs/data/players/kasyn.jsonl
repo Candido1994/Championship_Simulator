@@ -21,3 +21,4 @@
 {"season":"2037-A","team_id":"leopards","matches":14,"points":153,"assists":164,"defeats":154,"kda_avg":2.5098,"kda_pond":3.3579,"rank_overall":137,"rank_role":27,"bonus":0,"champion":false}
 {"season":"2037-B","team_id":"leopards","matches":21,"points":231,"assists":270,"defeats":179,"kda_avg":7.7619,"kda_pond":7.9106,"rank_overall":1,"rank_role":1,"bonus":0,"champion":false}
 {"season":"2038-A","team_id":"panthers","matches":14,"points":199,"assists":152,"defeats":124,"kda_avg":6.237,"kda_pond":5.4249,"rank_overall":24,"rank_role":4,"bonus":2,"champion":false}
+{"season":"2038-B","team_id":"panthers","matches":16,"points":227,"assists":192,"defeats":151,"kda_avg":3.7262,"kda_pond":4.0749,"rank_overall":89,"rank_role":19,"bonus":3,"champion":false}
