@@ -19,3 +19,4 @@
 {"season":"2037-A","team_id":"wolves","matches":20,"points":177,"assists":200,"defeats":197,"kda_avg":2.5129,"kda_pond":3.1325,"rank_overall":151,"rank_role":31,"bonus":0,"champion":false}
 {"season":"2038-A","team_id":"ravens","matches":16,"points":202,"assists":148,"defeats":145,"kda_avg":4.9421,"kda_pond":4.7006,"rank_overall":47,"rank_role":6,"bonus":0,"champion":false}
 {"season":"2038-B","team_id":"ravens","matches":18,"points":201,"assists":206,"defeats":205,"kda_avg":4.6867,"kda_pond":4.6508,"rank_overall":61,"rank_role":11,"bonus":0,"champion":false}
+{"season":"2039-A","team_id":"ravens","matches":14,"points":153,"assists":192,"defeats":184,"kda_avg":2.6263,"kda_pond":3.4269,"rank_overall":130,"rank_role":26,"bonus":0,"champion":false}
