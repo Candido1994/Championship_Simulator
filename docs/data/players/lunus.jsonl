@@ -25,3 +25,4 @@
 {"season":"2038-A","team_id":"bears","matches":14,"points":158,"assists":214,"defeats":122,"kda_avg":6.9163,"kda_pond":5.8212,"rank_overall":15,"rank_role":4,"bonus":2,"champion":false}
 {"season":"2038-B","team_id":"bears","matches":18,"points":286,"assists":258,"defeats":129,"kda_avg":8.9198,"kda_pond":7.7074,"rank_overall":1,"rank_role":1,"bonus":3,"champion":false}
 {"season":"2039-A","team_id":"cobras","matches":16,"points":294,"assists":246,"defeats":116,"kda_avg":9.3978,"kda_pond":7.4756,"rank_overall":5,"rank_role":3,"bonus":5,"champion":false}
+{"season":"2039-B","team_id":"cobras","matches":14,"points":197,"assists":197,"defeats":124,"kda_avg":5.3557,"kda_pond":4.9089,"rank_overall":41,"rank_role":9,"bonus":5,"champion":false}

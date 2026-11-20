@@ -22,3 +22,4 @@
 {"season":"2037-B","team_id":"komodos","matches":14,"points":159,"assists":166,"defeats":118,"kda_avg":5.1577,"kda_pond":4.811,"rank_overall":42,"rank_role":8,"bonus":0,"champion":false}
 {"season":"2038-A","team_id":"komodos","matches":14,"points":140,"assists":131,"defeats":146,"kda_avg":2.2466,"kda_pond":3.0972,"rank_overall":147,"rank_role":30,"bonus":0,"champion":false}
 {"season":"2039-A","team_id":"wolves","matches":20,"points":202,"assists":255,"defeats":239,"kda_avg":3.5811,"kda_pond":3.7783,"rank_overall":104,"rank_role":22,"bonus":0,"champion":false}
+{"season":"2039-B","team_id":"wolves","matches":19,"points":203,"assists":218,"defeats":202,"kda_avg":3.3349,"kda_pond":3.7517,"rank_overall":96,"rank_role":23,"bonus":0,"champion":false}

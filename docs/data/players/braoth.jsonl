@@ -22,3 +22,4 @@
 {"season":"2037-B","team_id":"eagles","matches":14,"points":118,"assists":116,"defeats":139,"kda_avg":1.9551,"kda_pond":2.9428,"rank_overall":152,"rank_role":31,"bonus":0,"champion":false}
 {"season":"2038-B","team_id":"scorpions","matches":14,"points":140,"assists":149,"defeats":134,"kda_avg":3.3711,"kda_pond":3.8396,"rank_overall":103,"rank_role":23,"bonus":0,"champion":false}
 {"season":"2039-A","team_id":"scorpions","matches":14,"points":141,"assists":127,"defeats":147,"kda_avg":3.2453,"kda_pond":3.788,"rank_overall":101,"rank_role":21,"bonus":0,"champion":false}
+{"season":"2039-B","team_id":"scorpions","matches":14,"points":153,"assists":174,"defeats":144,"kda_avg":4.6325,"kda_pond":4.487,"rank_overall":62,"rank_role":11,"bonus":0,"champion":false}

@@ -23,3 +23,4 @@
 {"season":"2037-B","team_id":"panthers","matches":14,"points":105,"assists":156,"defeats":130,"kda_avg":3.7048,"kda_pond":3.9635,"rank_overall":83,"rank_role":15,"bonus":0,"champion":false}
 {"season":"2038-A","team_id":"panthers","matches":14,"points":161,"assists":181,"defeats":148,"kda_avg":3.3481,"kda_pond":3.7397,"rank_overall":99,"rank_role":20,"bonus":0,"champion":false}
 {"season":"2038-B","team_id":"panthers","matches":16,"points":169,"assists":182,"defeats":183,"kda_avg":2.7148,"kda_pond":3.4221,"rank_overall":131,"rank_role":30,"bonus":0,"champion":false}
+{"season":"2039-B","team_id":"sharks","matches":14,"points":136,"assists":165,"defeats":165,"kda_avg":2.9038,"kda_pond":3.4786,"rank_overall":120,"rank_role":24,"bonus":0,"champion":false}

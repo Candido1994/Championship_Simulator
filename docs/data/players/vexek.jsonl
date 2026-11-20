@@ -25,3 +25,4 @@
 {"season":"2038-A","team_id":"scorpions","matches":18,"points":296,"assists":297,"defeats":137,"kda_avg":7.357,"kda_pond":6.2557,"rank_overall":11,"rank_role":3,"bonus":5,"champion":false}
 {"season":"2038-B","team_id":"scorpions","matches":14,"points":235,"assists":234,"defeats":118,"kda_avg":6.9812,"kda_pond":5.9455,"rank_overall":22,"rank_role":5,"bonus":5,"champion":false}
 {"season":"2039-A","team_id":"scorpions","matches":14,"points":194,"assists":217,"defeats":96,"kda_avg":8.4323,"kda_pond":6.8137,"rank_overall":12,"rank_role":2,"bonus":5,"champion":false}
+{"season":"2039-B","team_id":"scorpions","matches":14,"points":200,"assists":198,"defeats":132,"kda_avg":3.9911,"kda_pond":4.1129,"rank_overall":81,"rank_role":13,"bonus":5,"champion":false}

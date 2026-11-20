@@ -25,3 +25,4 @@
 {"season":"2038-A","team_id":"mustangs","matches":26,"points":362,"assists":396,"defeats":191,"kda_avg":6.3843,"kda_pond":5.9052,"rank_overall":14,"rank_role":3,"bonus":5,"champion":false}
 {"season":"2038-B","team_id":"mustangs","matches":23,"points":331,"assists":400,"defeats":158,"kda_avg":7.7928,"kda_pond":6.7492,"rank_overall":7,"rank_role":2,"bonus":5,"champion":false}
 {"season":"2039-A","team_id":"mustangs","matches":16,"points":250,"assists":255,"defeats":137,"kda_avg":5.5286,"kda_pond":5.1162,"rank_overall":39,"rank_role":8,"bonus":5,"champion":false}
+{"season":"2039-B","team_id":"mustangs","matches":21,"points":332,"assists":298,"defeats":171,"kda_avg":6.0644,"kda_pond":5.2922,"rank_overall":23,"rank_role":7,"bonus":5,"champion":false}

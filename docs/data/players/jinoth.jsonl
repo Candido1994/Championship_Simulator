@@ -25,3 +25,4 @@
 {"season":"2038-A","team_id":"gorillas","matches":14,"points":244,"assists":183,"defeats":112,"kda_avg":7.8935,"kda_pond":6.3912,"rank_overall":10,"rank_role":2,"bonus":5,"champion":false}
 {"season":"2038-B","team_id":"gorillas","matches":14,"points":211,"assists":228,"defeats":126,"kda_avg":6.6421,"kda_pond":5.7477,"rank_overall":25,"rank_role":6,"bonus":5,"champion":false}
 {"season":"2039-A","team_id":"gorillas","matches":17,"points":278,"assists":291,"defeats":133,"kda_avg":10.5981,"kda_pond":8.6094,"rank_overall":2,"rank_role":1,"bonus":5,"champion":false}
+{"season":"2039-B","team_id":"gorillas","matches":17,"points":275,"assists":277,"defeats":149,"kda_avg":5.603,"kda_pond":5.0656,"rank_overall":33,"rank_role":6,"bonus":5,"champion":false}

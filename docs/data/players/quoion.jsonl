@@ -21,3 +21,4 @@
 {"season":"2037-B","team_id":"hawks","matches":14,"points":129,"assists":127,"defeats":166,"kda_avg":2.3288,"kda_pond":3.1608,"rank_overall":143,"rank_role":28,"bonus":0,"champion":false}
 {"season":"2038-A","team_id":"hawks","matches":14,"points":138,"assists":135,"defeats":189,"kda_avg":1.7648,"kda_pond":2.8161,"rank_overall":158,"rank_role":32,"bonus":0,"champion":false}
 {"season":"2039-A","team_id":"falcons","matches":14,"points":135,"assists":180,"defeats":157,"kda_avg":2.8253,"kda_pond":3.543,"rank_overall":121,"rank_role":26,"bonus":0,"champion":false}
+{"season":"2039-B","team_id":"falcons","matches":14,"points":150,"assists":183,"defeats":145,"kda_avg":6.1154,"kda_pond":5.352,"rank_overall":20,"rank_role":4,"bonus":0,"champion":false}

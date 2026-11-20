@@ -25,3 +25,4 @@
 {"season":"2038-A","team_id":"wolves","matches":16,"points":189,"assists":176,"defeats":171,"kda_avg":3.8487,"kda_pond":4.0603,"rank_overall":78,"rank_role":15,"bonus":0,"champion":false}
 {"season":"2038-B","team_id":"wolves","matches":14,"points":152,"assists":105,"defeats":163,"kda_avg":3.1741,"kda_pond":3.7247,"rank_overall":109,"rank_role":24,"bonus":0,"champion":false}
 {"season":"2039-A","team_id":"wolves","matches":20,"points":198,"assists":168,"defeats":220,"kda_avg":3.5504,"kda_pond":3.7713,"rank_overall":105,"rank_role":21,"bonus":0,"champion":false}
+{"season":"2039-B","team_id":"wolves","matches":19,"points":198,"assists":187,"defeats":208,"kda_avg":3.8005,"kda_pond":3.8228,"rank_overall":92,"rank_role":19,"bonus":0,"champion":false}

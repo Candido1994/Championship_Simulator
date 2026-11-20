@@ -23,3 +23,4 @@
 {"season":"2038-A","team_id":"sharks","matches":14,"points":141,"assists":162,"defeats":151,"kda_avg":2.4869,"kda_pond":3.2373,"rank_overall":138,"rank_role":26,"bonus":0,"champion":false}
 {"season":"2038-B","team_id":"sharks","matches":14,"points":152,"assists":145,"defeats":129,"kda_avg":4.0459,"kda_pond":4.2332,"rank_overall":81,"rank_role":17,"bonus":0,"champion":false}
 {"season":"2039-A","team_id":"sharks","matches":20,"points":274,"assists":216,"defeats":188,"kda_avg":7.3889,"kda_pond":6.3117,"rank_overall":21,"rank_role":5,"bonus":0,"champion":false}
+{"season":"2039-B","team_id":"sharks","matches":14,"points":179,"assists":150,"defeats":158,"kda_avg":2.479,"kda_pond":3.2308,"rank_overall":143,"rank_role":31,"bonus":1,"champion":false}

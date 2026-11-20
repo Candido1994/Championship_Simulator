@@ -20,3 +20,4 @@
 {"season":"2037-B","team_id":"komodos","matches":14,"points":153,"assists":133,"defeats":171,"kda_avg":2.2392,"kda_pond":3.1086,"rank_overall":147,"rank_role":31,"bonus":0,"champion":false}
 {"season":"2038-B","team_id":"buffalos","matches":17,"points":199,"assists":153,"defeats":145,"kda_avg":4.9864,"kda_pond":4.9157,"rank_overall":51,"rank_role":10,"bonus":0,"champion":false}
 {"season":"2039-A","team_id":"buffalos","matches":23,"points":297,"assists":282,"defeats":200,"kda_avg":6.5385,"kda_pond":6.4833,"rank_overall":20,"rank_role":7,"bonus":0,"champion":true}
+{"season":"2039-B","team_id":"buffalos","matches":14,"points":142,"assists":157,"defeats":184,"kda_avg":2.2605,"kda_pond":3.1033,"rank_overall":148,"rank_role":30,"bonus":0,"champion":false}
