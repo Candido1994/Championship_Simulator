@@ -21,3 +21,4 @@
 {"season":"2038-A","team_id":"wolverines","matches":14,"points":105,"assists":131,"defeats":156,"kda_avg":2.9143,"kda_pond":3.4867,"rank_overall":118,"rank_role":25,"bonus":0,"champion":false}
 {"season":"2038-B","team_id":"wolverines","matches":16,"points":152,"assists":168,"defeats":193,"kda_avg":2.1285,"kda_pond":3.0001,"rank_overall":155,"rank_role":30,"bonus":0,"champion":false}
 {"season":"2039-B","team_id":"buffalos","matches":14,"points":114,"assists":177,"defeats":167,"kda_avg":2.9388,"kda_pond":3.499,"rank_overall":118,"rank_role":22,"bonus":0,"champion":false}
+{"season":"2040-A","team_id":"buffalos","matches":20,"points":230,"assists":196,"defeats":252,"kda_avg":3.4144,"kda_pond":3.8346,"rank_overall":118,"rank_role":23,"bonus":0,"champion":false}

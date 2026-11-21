@@ -22,3 +22,4 @@
 {"season":"2038-A","team_id":"hyenas","matches":16,"points":146,"assists":159,"defeats":175,"kda_avg":2.5685,"kda_pond":3.2681,"rank_overall":136,"rank_role":29,"bonus":0,"champion":false}
 {"season":"2038-B","team_id":"hyenas","matches":19,"points":211,"assists":200,"defeats":210,"kda_avg":3.8333,"kda_pond":3.9101,"rank_overall":98,"rank_role":18,"bonus":0,"champion":false}
 {"season":"2039-A","team_id":"hyenas","matches":14,"points":143,"assists":157,"defeats":209,"kda_avg":1.534,"kda_pond":2.7897,"rank_overall":158,"rank_role":32,"bonus":0,"champion":false}
+{"season":"2040-A","team_id":"owls","matches":14,"points":118,"assists":166,"defeats":172,"kda_avg":2.1829,"kda_pond":3.1861,"rank_overall":151,"rank_role":31,"bonus":0,"champion":false}

@@ -23,3 +23,4 @@
 {"season":"2038-B","team_id":"komodos","matches":14,"points":167,"assists":124,"defeats":157,"kda_avg":3.0146,"kda_pond":3.6317,"rank_overall":117,"rank_role":20,"bonus":0,"champion":false}
 {"season":"2039-A","team_id":"komodos","matches":16,"points":201,"assists":174,"defeats":164,"kda_avg":3.1663,"kda_pond":3.6886,"rank_overall":115,"rank_role":21,"bonus":0,"champion":false}
 {"season":"2039-B","team_id":"komodos","matches":17,"points":206,"assists":160,"defeats":165,"kda_avg":4.9449,"kda_pond":4.649,"rank_overall":50,"rank_role":5,"bonus":0,"champion":false}
+{"season":"2040-A","team_id":"komodos","matches":16,"points":180,"assists":189,"defeats":175,"kda_avg":4.7455,"kda_pond":4.6232,"rank_overall":61,"rank_role":12,"bonus":1,"champion":false}

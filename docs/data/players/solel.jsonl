@@ -25,3 +25,4 @@
 {"season":"2038-A","team_id":"jaguars","matches":21,"points":259,"assists":191,"defeats":234,"kda_avg":3.1445,"kda_pond":3.417,"rank_overall":126,"rank_role":28,"bonus":0,"champion":false}
 {"season":"2038-B","team_id":"jaguars","matches":14,"points":98,"assists":149,"defeats":148,"kda_avg":1.874,"kda_pond":2.9663,"rank_overall":156,"rank_role":31,"bonus":0,"champion":false}
 {"season":"2039-B","team_id":"lynxes","matches":14,"points":137,"assists":177,"defeats":142,"kda_avg":3.3238,"kda_pond":3.7236,"rank_overall":99,"rank_role":17,"bonus":0,"champion":false}
+{"season":"2040-A","team_id":"lynxes","matches":14,"points":93,"assists":116,"defeats":175,"kda_avg":1.9009,"kda_pond":3.0216,"rank_overall":157,"rank_role":31,"bonus":0,"champion":false}

@@ -22,3 +22,4 @@
 {"season":"2038-A","team_id":"foxes","matches":16,"points":146,"assists":181,"defeats":182,"kda_avg":4.3411,"kda_pond":4.258,"rank_overall":60,"rank_role":16,"bonus":0,"champion":false}
 {"season":"2038-B","team_id":"foxes","matches":26,"points":281,"assists":268,"defeats":293,"kda_avg":3.9008,"kda_pond":4.1818,"rank_overall":84,"rank_role":17,"bonus":0,"champion":true}
 {"season":"2039-A","team_id":"foxes","matches":21,"points":212,"assists":202,"defeats":230,"kda_avg":2.4616,"kda_pond":3.058,"rank_overall":152,"rank_role":30,"bonus":0,"champion":false}
+{"season":"2040-A","team_id":"ravens","matches":14,"points":113,"assists":183,"defeats":142,"kda_avg":3.0823,"kda_pond":3.7107,"rank_overall":126,"rank_role":23,"bonus":0,"champion":false}

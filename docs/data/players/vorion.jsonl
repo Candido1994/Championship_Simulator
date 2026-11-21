@@ -20,3 +20,4 @@
 {"season":"2037-B","team_id":"crocodiles","matches":14,"points":161,"assists":161,"defeats":139,"kda_avg":4.6541,"kda_pond":4.5172,"rank_overall":54,"rank_role":10,"bonus":0,"champion":false}
 {"season":"2038-A","team_id":"crocodiles","matches":14,"points":100,"assists":169,"defeats":168,"kda_avg":1.8646,"kda_pond":2.8744,"rank_overall":155,"rank_role":32,"bonus":0,"champion":false}
 {"season":"2039-A","team_id":"lions","matches":14,"points":124,"assists":163,"defeats":157,"kda_avg":2.1348,"kda_pond":3.1402,"rank_overall":146,"rank_role":30,"bonus":0,"champion":false}
+{"season":"2040-A","team_id":"tigers","matches":17,"points":164,"assists":124,"defeats":174,"kda_avg":3.3197,"kda_pond":3.7181,"rank_overall":125,"rank_role":28,"bonus":0,"champion":false}

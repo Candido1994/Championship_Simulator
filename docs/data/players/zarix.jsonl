@@ -24,3 +24,4 @@
 {"season":"2038-A","team_id":"lions","matches":14,"points":182,"assists":137,"defeats":162,"kda_avg":3.253,"kda_pond":3.6843,"rank_overall":104,"rank_role":18,"bonus":0,"champion":false}
 {"season":"2038-B","team_id":"lions","matches":14,"points":156,"assists":175,"defeats":178,"kda_avg":2.4397,"kda_pond":3.2963,"rank_overall":145,"rank_role":31,"bonus":0,"champion":false}
 {"season":"2039-B","team_id":"vipers","matches":14,"points":170,"assists":167,"defeats":185,"kda_avg":4.1418,"kda_pond":4.2008,"rank_overall":77,"rank_role":21,"bonus":0,"champion":false}
+{"season":"2040-A","team_id":"vipers","matches":14,"points":140,"assists":153,"defeats":159,"kda_avg":3.174,"kda_pond":3.7642,"rank_overall":122,"rank_role":27,"bonus":0,"champion":false}

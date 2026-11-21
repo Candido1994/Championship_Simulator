@@ -22,3 +22,4 @@
 {"season":"2038-A","team_id":"ravens","matches":16,"points":176,"assists":200,"defeats":214,"kda_avg":2.9947,"kda_pond":3.4504,"rank_overall":124,"rank_role":27,"bonus":0,"champion":false}
 {"season":"2038-B","team_id":"ravens","matches":18,"points":138,"assists":188,"defeats":227,"kda_avg":1.7649,"kda_pond":2.6743,"rank_overall":159,"rank_role":32,"bonus":0,"champion":false}
 {"season":"2039-B","team_id":"piranhas","matches":18,"points":217,"assists":186,"defeats":207,"kda_avg":3.0296,"kda_pond":3.3724,"rank_overall":128,"rank_role":26,"bonus":0,"champion":false}
+{"season":"2040-A","team_id":"piranhas","matches":14,"points":125,"assists":153,"defeats":124,"kda_avg":4.1613,"kda_pond":4.3401,"rank_overall":77,"rank_role":13,"bonus":0,"champion":false}
