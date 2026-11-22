@@ -24,3 +24,4 @@
 {"season":"2039-A","team_id":"eagles","matches":18,"points":219,"assists":236,"defeats":161,"kda_avg":8.4337,"kda_pond":7.1386,"rank_overall":9,"rank_role":1,"bonus":2,"champion":false}
 {"season":"2039-B","team_id":"eagles","matches":16,"points":213,"assists":217,"defeats":120,"kda_avg":6.5017,"kda_pond":5.6402,"rank_overall":16,"rank_role":3,"bonus":3,"champion":false}
 {"season":"2040-A","team_id":"eagles","matches":25,"points":347,"assists":357,"defeats":195,"kda_avg":6.3273,"kda_pond":5.6964,"rank_overall":23,"rank_role":3,"bonus":4,"champion":false}
+{"season":"2040-B","team_id":"eagles","matches":19,"points":314,"assists":302,"defeats":185,"kda_avg":4.5952,"kda_pond":4.538,"rank_overall":67,"rank_role":12,"bonus":5,"champion":false}

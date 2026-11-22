@@ -25,3 +25,4 @@
 {"season":"2038-B","team_id":"mustangs","matches":23,"points":236,"assists":219,"defeats":295,"kda_avg":2.0226,"kda_pond":2.6045,"rank_overall":160,"rank_role":32,"bonus":0,"champion":false}
 {"season":"2039-B","team_id":"foxes","matches":22,"points":221,"assists":230,"defeats":237,"kda_avg":3.01,"kda_pond":3.6206,"rank_overall":110,"rank_role":20,"bonus":0,"champion":false}
 {"season":"2040-A","team_id":"foxes","matches":23,"points":220,"assists":283,"defeats":233,"kda_avg":5.2913,"kda_pond":5.2221,"rank_overall":35,"rank_role":6,"bonus":0,"champion":true}
+{"season":"2040-B","team_id":"foxes","matches":16,"points":167,"assists":191,"defeats":136,"kda_avg":4.9876,"kda_pond":4.7951,"rank_overall":48,"rank_role":14,"bonus":0,"champion":false}

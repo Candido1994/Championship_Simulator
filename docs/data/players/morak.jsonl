@@ -22,3 +22,4 @@
 {"season":"2038-A","team_id":"foxes","matches":16,"points":129,"assists":169,"defeats":196,"kda_avg":2.1316,"kda_pond":2.9523,"rank_overall":151,"rank_role":31,"bonus":0,"champion":false}
 {"season":"2039-A","team_id":"vipers","matches":14,"points":173,"assists":100,"defeats":183,"kda_avg":2.1047,"kda_pond":3.1226,"rank_overall":148,"rank_role":31,"bonus":0,"champion":false}
 {"season":"2040-A","team_id":"piranhas","matches":14,"points":131,"assists":163,"defeats":135,"kda_avg":3.7151,"kda_pond":4.0798,"rank_overall":96,"rank_role":16,"bonus":0,"champion":false}
+{"season":"2040-B","team_id":"piranhas","matches":17,"points":182,"assists":192,"defeats":160,"kda_avg":6.3612,"kda_pond":5.8353,"rank_overall":19,"rank_role":3,"bonus":0,"champion":false}
