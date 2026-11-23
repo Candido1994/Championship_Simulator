@@ -25,3 +25,4 @@
 {"season":"2039-A","team_id":"hornets","matches":14,"points":111,"assists":132,"defeats":134,"kda_avg":2.5747,"kda_pond":3.3968,"rank_overall":133,"rank_role":25,"bonus":0,"champion":false}
 {"season":"2039-B","team_id":"hornets","matches":20,"points":247,"assists":214,"defeats":255,"kda_avg":2.5594,"kda_pond":3.0138,"rank_overall":152,"rank_role":30,"bonus":0,"champion":false}
 {"season":"2040-B","team_id":"falcons","matches":14,"points":185,"assists":139,"defeats":130,"kda_avg":3.3406,"kda_pond":3.8338,"rank_overall":109,"rank_role":22,"bonus":0,"champion":false}
+{"season":"2041-A","team_id":"falcons","matches":14,"points":146,"assists":150,"defeats":131,"kda_avg":3.743,"kda_pond":3.9803,"rank_overall":81,"rank_role":17,"bonus":0,"champion":false}

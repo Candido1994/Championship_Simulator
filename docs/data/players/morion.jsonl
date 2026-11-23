@@ -22,3 +22,4 @@
 {"season":"2039-A","team_id":"buffalos","matches":23,"points":297,"assists":282,"defeats":200,"kda_avg":6.5385,"kda_pond":6.4833,"rank_overall":20,"rank_role":7,"bonus":0,"champion":true}
 {"season":"2039-B","team_id":"buffalos","matches":14,"points":142,"assists":157,"defeats":184,"kda_avg":2.2605,"kda_pond":3.1033,"rank_overall":148,"rank_role":30,"bonus":0,"champion":false}
 {"season":"2040-B","team_id":"eagles","matches":19,"points":174,"assists":175,"defeats":202,"kda_avg":3.5534,"kda_pond":3.7883,"rank_overall":115,"rank_role":21,"bonus":0,"champion":false}
+{"season":"2041-A","team_id":"eagles","matches":19,"points":193,"assists":257,"defeats":205,"kda_avg":3.2598,"kda_pond":3.6896,"rank_overall":100,"rank_role":23,"bonus":0,"champion":false}

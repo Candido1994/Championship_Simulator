@@ -28,3 +28,4 @@
 {"season":"2039-B","team_id":"tigers","matches":14,"points":159,"assists":147,"defeats":115,"kda_avg":3.5317,"kda_pond":3.8449,"rank_overall":90,"rank_role":18,"bonus":1,"champion":false}
 {"season":"2040-A","team_id":"tigers","matches":17,"points":215,"assists":168,"defeats":186,"kda_avg":4.0057,"kda_pond":4.2224,"rank_overall":85,"rank_role":16,"bonus":0,"champion":false}
 {"season":"2040-B","team_id":"tigers","matches":27,"points":314,"assists":268,"defeats":275,"kda_avg":4.4108,"kda_pond":4.0915,"rank_overall":95,"rank_role":16,"bonus":0,"champion":true}
+{"season":"2041-A","team_id":"tigers","matches":14,"points":117,"assists":146,"defeats":133,"kda_avg":4.4267,"kda_pond":4.3792,"rank_overall":59,"rank_role":14,"bonus":0,"champion":false}

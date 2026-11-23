@@ -25,3 +25,4 @@
 {"season":"2039-A","team_id":"sharks","matches":20,"points":274,"assists":216,"defeats":188,"kda_avg":7.3889,"kda_pond":6.3117,"rank_overall":21,"rank_role":5,"bonus":0,"champion":false}
 {"season":"2039-B","team_id":"sharks","matches":14,"points":179,"assists":150,"defeats":158,"kda_avg":2.479,"kda_pond":3.2308,"rank_overall":143,"rank_role":31,"bonus":1,"champion":false}
 {"season":"2040-B","team_id":"foxes","matches":16,"points":149,"assists":170,"defeats":182,"kda_avg":3.5642,"kda_pond":3.9029,"rank_overall":104,"rank_role":22,"bonus":0,"champion":false}
+{"season":"2041-A","team_id":"foxes","matches":24,"points":264,"assists":256,"defeats":220,"kda_avg":4.5932,"kda_pond":4.4688,"rank_overall":53,"rank_role":7,"bonus":0,"champion":true}

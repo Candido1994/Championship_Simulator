@@ -26,3 +26,4 @@
 {"season":"2039-A","team_id":"leopards","matches":17,"points":209,"assists":232,"defeats":171,"kda_avg":7.958,"kda_pond":6.7899,"rank_overall":13,"rank_role":3,"bonus":1,"champion":false}
 {"season":"2039-B","team_id":"leopards","matches":16,"points":207,"assists":189,"defeats":124,"kda_avg":5.5971,"kda_pond":5.0545,"rank_overall":34,"rank_role":10,"bonus":2,"champion":false}
 {"season":"2040-A","team_id":"leopards","matches":21,"points":235,"assists":270,"defeats":225,"kda_avg":3.2875,"kda_pond":3.6223,"rank_overall":131,"rank_role":30,"bonus":2,"champion":false}
+{"season":"2041-A","team_id":"rhinos","matches":14,"points":175,"assists":172,"defeats":145,"kda_avg":3.678,"kda_pond":3.9424,"rank_overall":82,"rank_role":14,"bonus":1,"champion":false}

@@ -26,3 +26,4 @@
 {"season":"2039-A","team_id":"lions","matches":14,"points":148,"assists":139,"defeats":161,"kda_avg":3.7141,"kda_pond":4.0614,"rank_overall":81,"rank_role":19,"bonus":0,"champion":false}
 {"season":"2039-B","team_id":"lions","matches":27,"points":275,"assists":262,"defeats":282,"kda_avg":2.7456,"kda_pond":2.9993,"rank_overall":153,"rank_role":30,"bonus":0,"champion":false}
 {"season":"2040-B","team_id":"scorpions","matches":14,"points":137,"assists":158,"defeats":143,"kda_avg":4.003,"kda_pond":4.2202,"rank_overall":83,"rank_role":19,"bonus":0,"champion":false}
+{"season":"2041-A","team_id":"scorpions","matches":14,"points":198,"assists":146,"defeats":161,"kda_avg":2.5177,"kda_pond":3.2656,"rank_overall":132,"rank_role":25,"bonus":0,"champion":false}
