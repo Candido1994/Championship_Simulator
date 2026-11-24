@@ -29,3 +29,4 @@
 {"season":"2040-A","team_id":"wolverines","matches":14,"points":200,"assists":202,"defeats":103,"kda_avg":8.2644,"kda_pond":6.7336,"rank_overall":11,"rank_role":2,"bonus":5,"champion":false}
 {"season":"2040-B","team_id":"wolverines","matches":14,"points":186,"assists":187,"defeats":124,"kda_avg":4.4739,"kda_pond":4.4949,"rank_overall":70,"rank_role":13,"bonus":5,"champion":false}
 {"season":"2041-A","team_id":"wolverines","matches":17,"points":254,"assists":258,"defeats":114,"kda_avg":8.9396,"kda_pond":7.3935,"rank_overall":6,"rank_role":2,"bonus":5,"champion":false}
+{"season":"2041-B","team_id":"wolverines","matches":16,"points":261,"assists":274,"defeats":140,"kda_avg":7.4255,"kda_pond":6.2441,"rank_overall":13,"rank_role":6,"bonus":5,"champion":false}

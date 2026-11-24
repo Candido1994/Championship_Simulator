@@ -25,3 +25,4 @@
 {"season":"2039-B","team_id":"eagles","matches":16,"points":139,"assists":189,"defeats":165,"kda_avg":4.0215,"kda_pond":4.063,"rank_overall":82,"rank_role":16,"bonus":0,"champion":false}
 {"season":"2040-A","team_id":"eagles","matches":25,"points":256,"assists":250,"defeats":282,"kda_avg":2.5657,"kda_pond":2.9738,"rank_overall":158,"rank_role":31,"bonus":0,"champion":false}
 {"season":"2041-A","team_id":"vipers","matches":17,"points":159,"assists":208,"defeats":175,"kda_avg":4.7478,"kda_pond":4.5067,"rank_overall":49,"rank_role":13,"bonus":0,"champion":false}
+{"season":"2041-B","team_id":"vipers","matches":14,"points":150,"assists":128,"defeats":142,"kda_avg":3.1824,"kda_pond":3.7043,"rank_overall":115,"rank_role":19,"bonus":0,"champion":false}

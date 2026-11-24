@@ -25,3 +25,4 @@
 {"season":"2040-A","team_id":"ravens","matches":14,"points":113,"assists":183,"defeats":142,"kda_avg":3.0823,"kda_pond":3.7107,"rank_overall":126,"rank_role":23,"bonus":0,"champion":false}
 {"season":"2040-B","team_id":"ravens","matches":14,"points":141,"assists":127,"defeats":152,"kda_avg":3.2078,"kda_pond":3.7564,"rank_overall":119,"rank_role":25,"bonus":0,"champion":false}
 {"season":"2041-A","team_id":"ravens","matches":14,"points":131,"assists":157,"defeats":138,"kda_avg":5.3074,"kda_pond":4.8929,"rank_overall":39,"rank_role":8,"bonus":0,"champion":false}
+{"season":"2041-B","team_id":"ravens","matches":27,"points":279,"assists":310,"defeats":254,"kda_avg":4.2048,"kda_pond":4.1711,"rank_overall":83,"rank_role":17,"bonus":0,"champion":true}

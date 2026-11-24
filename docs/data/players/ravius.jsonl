@@ -28,3 +28,4 @@
 {"season":"2040-A","team_id":"rhinos","matches":17,"points":252,"assists":256,"defeats":119,"kda_avg":10.1259,"kda_pond":8.3938,"rank_overall":1,"rank_role":1,"bonus":5,"champion":false}
 {"season":"2040-B","team_id":"owls","matches":14,"points":193,"assists":226,"defeats":131,"kda_avg":4.322,"kda_pond":4.4063,"rank_overall":72,"rank_role":17,"bonus":5,"champion":false}
 {"season":"2041-A","team_id":"owls","matches":14,"points":192,"assists":196,"defeats":107,"kda_avg":6.9812,"kda_pond":5.8693,"rank_overall":17,"rank_role":2,"bonus":4,"champion":false}
+{"season":"2041-B","team_id":"owls","matches":14,"points":181,"assists":205,"defeats":128,"kda_avg":5.7933,"kda_pond":5.2274,"rank_overall":27,"rank_role":6,"bonus":5,"champion":false}

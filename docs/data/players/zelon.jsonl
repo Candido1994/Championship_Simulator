@@ -26,3 +26,4 @@
 {"season":"2039-B","team_id":"jaguars","matches":16,"points":155,"assists":210,"defeats":146,"kda_avg":6.9063,"kda_pond":6.0881,"rank_overall":6,"rank_role":2,"bonus":0,"champion":false}
 {"season":"2040-A","team_id":"jaguars","matches":18,"points":172,"assists":191,"defeats":159,"kda_avg":2.7345,"kda_pond":3.3344,"rank_overall":148,"rank_role":30,"bonus":1,"champion":false}
 {"season":"2041-A","team_id":"panthers","matches":14,"points":143,"assists":166,"defeats":144,"kda_avg":3.3872,"kda_pond":3.7728,"rank_overall":95,"rank_role":17,"bonus":0,"champion":false}
+{"season":"2041-B","team_id":"panthers","matches":17,"points":181,"assists":157,"defeats":200,"kda_avg":2.8993,"kda_pond":3.4307,"rank_overall":137,"rank_role":27,"bonus":0,"champion":false}

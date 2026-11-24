@@ -26,3 +26,4 @@
 {"season":"2040-A","team_id":"mustangs","matches":16,"points":172,"assists":220,"defeats":134,"kda_avg":5.7443,"kda_pond":5.229,"rank_overall":34,"rank_role":5,"bonus":1,"champion":false}
 {"season":"2040-B","team_id":"mustangs","matches":19,"points":263,"assists":292,"defeats":138,"kda_avg":6.7201,"kda_pond":5.8284,"rank_overall":20,"rank_role":5,"bonus":2,"champion":false}
 {"season":"2041-A","team_id":"mustangs","matches":21,"points":308,"assists":316,"defeats":193,"kda_avg":4.0563,"kda_pond":4.121,"rank_overall":75,"rank_role":19,"bonus":3,"champion":false}
+{"season":"2041-B","team_id":"mustangs","matches":17,"points":207,"assists":210,"defeats":176,"kda_avg":3.1036,"kda_pond":3.5538,"rank_overall":130,"rank_role":29,"bonus":2,"champion":false}

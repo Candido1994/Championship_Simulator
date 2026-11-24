@@ -25,3 +25,4 @@
 {"season":"2039-B","team_id":"ravens","matches":20,"points":159,"assists":238,"defeats":225,"kda_avg":2.3844,"kda_pond":2.9603,"rank_overall":154,"rank_role":32,"bonus":0,"champion":false}
 {"season":"2040-B","team_id":"lynxes","matches":14,"points":148,"assists":172,"defeats":138,"kda_avg":4.1602,"kda_pond":4.3119,"rank_overall":77,"rank_role":18,"bonus":0,"champion":false}
 {"season":"2041-A","team_id":"lynxes","matches":16,"points":198,"assists":162,"defeats":156,"kda_avg":4.5358,"kda_pond":4.4021,"rank_overall":58,"rank_role":14,"bonus":0,"champion":false}
+{"season":"2041-B","team_id":"lynxes","matches":16,"points":193,"assists":146,"defeats":173,"kda_avg":3.8199,"kda_pond":4.0468,"rank_overall":94,"rank_role":21,"bonus":0,"champion":false}
