@@ -26,3 +26,4 @@
 {"season":"2040-B","team_id":"hornets","matches":14,"points":169,"assists":174,"defeats":129,"kda_avg":8.0885,"kda_pond":6.6034,"rank_overall":11,"rank_role":3,"bonus":0,"champion":false}
 {"season":"2041-A","team_id":"hornets","matches":14,"points":162,"assists":170,"defeats":116,"kda_avg":4.3158,"kda_pond":4.3144,"rank_overall":64,"rank_role":15,"bonus":1,"champion":false}
 {"season":"2041-B","team_id":"hornets","matches":14,"points":123,"assists":121,"defeats":130,"kda_avg":2.7869,"kda_pond":3.4736,"rank_overall":133,"rank_role":25,"bonus":1,"champion":false}
+{"season":"2042-A","team_id":"lions","matches":14,"points":138,"assists":112,"defeats":191,"kda_avg":1.991,"kda_pond":3.056,"rank_overall":154,"rank_role":31,"bonus":0,"champion":false}

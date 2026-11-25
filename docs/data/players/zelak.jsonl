@@ -30,3 +30,4 @@
 {"season":"2040-B","team_id":"foxes","matches":16,"points":304,"assists":257,"defeats":123,"kda_avg":6.412,"kda_pond":5.6342,"rank_overall":22,"rank_role":4,"bonus":5,"champion":false}
 {"season":"2041-A","team_id":"foxes","matches":24,"points":335,"assists":362,"defeats":177,"kda_avg":7.9256,"kda_pond":6.5716,"rank_overall":9,"rank_role":3,"bonus":5,"champion":true}
 {"season":"2041-B","team_id":"foxes","matches":16,"points":213,"assists":230,"defeats":120,"kda_avg":8.4026,"kda_pond":6.7871,"rank_overall":8,"rank_role":4,"bonus":5,"champion":false}
+{"season":"2042-A","team_id":"foxes","matches":21,"points":327,"assists":351,"defeats":173,"kda_avg":6.5667,"kda_pond":5.8245,"rank_overall":23,"rank_role":4,"bonus":5,"champion":false}

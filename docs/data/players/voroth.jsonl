@@ -27,3 +27,4 @@
 {"season":"2040-A","team_id":"gorillas","matches":16,"points":177,"assists":194,"defeats":158,"kda_avg":4.2617,"kda_pond":4.3908,"rank_overall":73,"rank_role":17,"bonus":0,"champion":false}
 {"season":"2040-B","team_id":"gorillas","matches":14,"points":161,"assists":151,"defeats":149,"kda_avg":4.2295,"kda_pond":4.3524,"rank_overall":74,"rank_role":14,"bonus":0,"champion":false}
 {"season":"2041-A","team_id":"gorillas","matches":26,"points":299,"assists":247,"defeats":313,"kda_avg":2.2927,"kda_pond":2.8562,"rank_overall":153,"rank_role":32,"bonus":0,"champion":false}
+{"season":"2042-A","team_id":"hyenas","matches":27,"points":262,"assists":313,"defeats":306,"kda_avg":3.5146,"kda_pond":3.9394,"rank_overall":109,"rank_role":22,"bonus":0,"champion":false}

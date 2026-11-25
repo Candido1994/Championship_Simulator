@@ -30,3 +30,4 @@
 {"season":"2040-B","team_id":"scorpions","matches":14,"points":178,"assists":194,"defeats":105,"kda_avg":8.4636,"kda_pond":6.8222,"rank_overall":8,"rank_role":2,"bonus":5,"champion":false}
 {"season":"2041-A","team_id":"wolves","matches":16,"points":249,"assists":225,"defeats":169,"kda_avg":4.8612,"kda_pond":4.6282,"rank_overall":44,"rank_role":10,"bonus":5,"champion":false}
 {"season":"2041-B","team_id":"wolves","matches":16,"points":258,"assists":225,"defeats":137,"kda_avg":6.9589,"kda_pond":5.9106,"rank_overall":16,"rank_role":5,"bonus":5,"champion":false}
+{"season":"2042-A","team_id":"wolves","matches":14,"points":226,"assists":209,"defeats":113,"kda_avg":6.1528,"kda_pond":5.4838,"rank_overall":28,"rank_role":6,"bonus":5,"champion":false}

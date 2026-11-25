@@ -25,3 +25,4 @@
 {"season":"2040-A","team_id":"foxes","matches":23,"points":222,"assists":175,"defeats":257,"kda_avg":2.9268,"kda_pond":3.4211,"rank_overall":143,"rank_role":31,"bonus":0,"champion":true}
 {"season":"2041-A","team_id":"hyenas","matches":14,"points":148,"assists":129,"defeats":123,"kda_avg":4.0672,"kda_pond":4.1694,"rank_overall":72,"rank_role":13,"bonus":0,"champion":false}
 {"season":"2041-B","team_id":"hyenas","matches":14,"points":127,"assists":123,"defeats":152,"kda_avg":2.2031,"kda_pond":3.1331,"rank_overall":149,"rank_role":29,"bonus":0,"champion":false}
+{"season":"2042-A","team_id":"hyenas","matches":27,"points":288,"assists":256,"defeats":239,"kda_avg":4.1411,"kda_pond":4.4681,"rank_overall":69,"rank_role":15,"bonus":0,"champion":false}

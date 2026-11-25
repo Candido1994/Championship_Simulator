@@ -26,3 +26,4 @@
 {"season":"2040-A","team_id":"scorpions","matches":14,"points":139,"assists":143,"defeats":127,"kda_avg":3.952,"kda_pond":4.218,"rank_overall":86,"rank_role":18,"bonus":0,"champion":false}
 {"season":"2040-B","team_id":"scorpions","matches":14,"points":131,"assists":154,"defeats":182,"kda_avg":1.953,"kda_pond":3.0244,"rank_overall":157,"rank_role":31,"bonus":0,"champion":false}
 {"season":"2041-B","team_id":"hornets","matches":14,"points":165,"assists":145,"defeats":145,"kda_avg":4.5626,"kda_pond":4.5094,"rank_overall":57,"rank_role":12,"bonus":0,"champion":false}
+{"season":"2042-A","team_id":"hornets","matches":27,"points":256,"assists":289,"defeats":279,"kda_avg":3.9834,"kda_pond":3.8689,"rank_overall":113,"rank_role":24,"bonus":0,"champion":true}

@@ -27,3 +27,4 @@
 {"season":"2040-A","team_id":"lions","matches":19,"points":194,"assists":185,"defeats":226,"kda_avg":2.5751,"kda_pond":3.1405,"rank_overall":155,"rank_role":32,"bonus":0,"champion":false}
 {"season":"2041-A","team_id":"piranhas","matches":16,"points":186,"assists":191,"defeats":135,"kda_avg":5.9547,"kda_pond":5.2592,"rank_overall":32,"rank_role":9,"bonus":0,"champion":false}
 {"season":"2041-B","team_id":"piranhas","matches":14,"points":145,"assists":129,"defeats":144,"kda_avg":3.2277,"kda_pond":3.7307,"rank_overall":112,"rank_role":22,"bonus":0,"champion":false}
+{"season":"2042-A","team_id":"piranhas","matches":14,"points":168,"assists":184,"defeats":153,"kda_avg":4.3025,"kda_pond":4.4044,"rank_overall":72,"rank_role":15,"bonus":0,"champion":false}
