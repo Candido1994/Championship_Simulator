@@ -28,3 +28,4 @@
 {"season":"2041-A","team_id":"hornets","matches":14,"points":153,"assists":146,"defeats":133,"kda_avg":6.3009,"kda_pond":5.4724,"rank_overall":26,"rank_role":7,"bonus":0,"champion":false}
 {"season":"2041-B","team_id":"hornets","matches":14,"points":138,"assists":146,"defeats":135,"kda_avg":2.7003,"kda_pond":3.4231,"rank_overall":138,"rank_role":28,"bonus":0,"champion":false}
 {"season":"2042-A","team_id":"hornets","matches":27,"points":288,"assists":268,"defeats":280,"kda_avg":4.9533,"kda_pond":4.8093,"rank_overall":46,"rank_role":11,"bonus":0,"champion":true}
+{"season":"2042-B","team_id":"hornets","matches":14,"points":134,"assists":140,"defeats":122,"kda_avg":3.9452,"kda_pond":4.0921,"rank_overall":75,"rank_role":20,"bonus":0,"champion":false}

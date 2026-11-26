@@ -28,3 +28,4 @@
 {"season":"2041-A","team_id":"cobras","matches":20,"points":225,"assists":175,"defeats":208,"kda_avg":2.9588,"kda_pond":3.2955,"rank_overall":129,"rank_role":28,"bonus":0,"champion":false}
 {"season":"2041-B","team_id":"cobras","matches":18,"points":212,"assists":161,"defeats":215,"kda_avg":2.9834,"kda_pond":3.392,"rank_overall":139,"rank_role":27,"bonus":0,"champion":false}
 {"season":"2042-A","team_id":"cobras","matches":14,"points":156,"assists":140,"defeats":113,"kda_avg":7.0863,"kda_pond":6.0283,"rank_overall":18,"rank_role":5,"bonus":0,"champion":false}
+{"season":"2042-B","team_id":"cobras","matches":14,"points":148,"assists":200,"defeats":153,"kda_avg":3.5596,"kda_pond":3.8671,"rank_overall":93,"rank_role":20,"bonus":1,"champion":false}

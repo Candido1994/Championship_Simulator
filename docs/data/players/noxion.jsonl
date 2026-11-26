@@ -28,3 +28,4 @@
 {"season":"2040-B","team_id":"lions","matches":14,"points":154,"assists":148,"defeats":173,"kda_avg":2.2641,"kda_pond":3.2059,"rank_overall":150,"rank_role":30,"bonus":0,"champion":false}
 {"season":"2041-B","team_id":"mantis","matches":20,"points":169,"assists":200,"defeats":203,"kda_avg":5.0062,"kda_pond":4.9854,"rank_overall":38,"rank_role":9,"bonus":0,"champion":false}
 {"season":"2042-A","team_id":"mantis","matches":17,"points":183,"assists":198,"defeats":187,"kda_avg":2.5882,"kda_pond":3.305,"rank_overall":147,"rank_role":29,"bonus":0,"champion":false}
+{"season":"2042-B","team_id":"mantis","matches":19,"points":220,"assists":208,"defeats":183,"kda_avg":4.0156,"kda_pond":4.1135,"rank_overall":73,"rank_role":12,"bonus":0,"champion":false}

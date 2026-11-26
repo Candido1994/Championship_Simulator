@@ -29,3 +29,4 @@
 {"season":"2041-A","team_id":"lions","matches":19,"points":149,"assists":209,"defeats":228,"kda_avg":2.9822,"kda_pond":3.3365,"rank_overall":125,"rank_role":23,"bonus":0,"champion":false}
 {"season":"2041-B","team_id":"lions","matches":27,"points":253,"assists":293,"defeats":219,"kda_avg":4.6325,"kda_pond":5.1105,"rank_overall":32,"rank_role":6,"bonus":0,"champion":false}
 {"season":"2042-A","team_id":"lions","matches":14,"points":167,"assists":153,"defeats":149,"kda_avg":3.8304,"kda_pond":4.129,"rank_overall":87,"rank_role":18,"bonus":0,"champion":false}
+{"season":"2042-B","team_id":"lions","matches":14,"points":168,"assists":138,"defeats":155,"kda_avg":3.8415,"kda_pond":4.0315,"rank_overall":79,"rank_role":17,"bonus":0,"champion":false}

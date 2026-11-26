@@ -26,3 +26,4 @@
 {"season":"2040-A","team_id":"buffalos","matches":20,"points":254,"assists":200,"defeats":263,"kda_avg":4.0481,"kda_pond":4.0534,"rank_overall":101,"rank_role":18,"bonus":0,"champion":false}
 {"season":"2040-B","team_id":"buffalos","matches":14,"points":141,"assists":115,"defeats":161,"kda_avg":2.1353,"kda_pond":3.1308,"rank_overall":155,"rank_role":32,"bonus":0,"champion":false}
 {"season":"2041-B","team_id":"condors","matches":20,"points":202,"assists":190,"defeats":260,"kda_avg":2.0068,"kda_pond":2.7502,"rank_overall":160,"rank_role":32,"bonus":0,"champion":false}
+{"season":"2042-B","team_id":"piranhas","matches":20,"points":218,"assists":195,"defeats":221,"kda_avg":3.5098,"kda_pond":3.9391,"rank_overall":86,"rank_role":11,"bonus":0,"champion":false}

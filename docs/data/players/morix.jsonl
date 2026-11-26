@@ -30,3 +30,4 @@
 {"season":"2041-A","team_id":"owls","matches":14,"points":164,"assists":169,"defeats":111,"kda_avg":4.7772,"kda_pond":4.5836,"rank_overall":46,"rank_role":11,"bonus":1,"champion":false}
 {"season":"2041-B","team_id":"owls","matches":14,"points":140,"assists":146,"defeats":158,"kda_avg":3.9488,"kda_pond":4.1514,"rank_overall":86,"rank_role":18,"bonus":1,"champion":false}
 {"season":"2042-A","team_id":"owls","matches":18,"points":176,"assists":192,"defeats":212,"kda_avg":4.0443,"kda_pond":4.2647,"rank_overall":79,"rank_role":16,"bonus":0,"champion":false}
+{"season":"2042-B","team_id":"owls","matches":14,"points":157,"assists":142,"defeats":162,"kda_avg":2.6259,"kda_pond":3.3224,"rank_overall":135,"rank_role":27,"bonus":0,"champion":false}
