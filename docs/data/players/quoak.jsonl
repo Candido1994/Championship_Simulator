@@ -29,3 +29,4 @@
 {"season":"2041-A","team_id":"mustangs","matches":21,"points":261,"assists":309,"defeats":216,"kda_avg":5.415,"kda_pond":4.9484,"rank_overall":37,"rank_role":8,"bonus":2,"champion":false}
 {"season":"2041-B","team_id":"mustangs","matches":17,"points":188,"assists":187,"defeats":207,"kda_avg":2.1562,"kda_pond":2.9586,"rank_overall":155,"rank_role":31,"bonus":2,"champion":false}
 {"season":"2042-B","team_id":"lynxes","matches":16,"points":176,"assists":211,"defeats":157,"kda_avg":3.721,"kda_pond":3.9148,"rank_overall":89,"rank_role":12,"bonus":1,"champion":false}
+{"season":"2043-A","team_id":"lynxes","matches":23,"points":292,"assists":323,"defeats":277,"kda_avg":2.7603,"kda_pond":3.1975,"rank_overall":147,"rank_role":30,"bonus":1,"champion":false}

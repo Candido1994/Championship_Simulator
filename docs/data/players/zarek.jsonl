@@ -27,3 +27,4 @@
 {"season":"2041-A","team_id":"jaguars","matches":16,"points":145,"assists":133,"defeats":168,"kda_avg":2.075,"kda_pond":2.9311,"rank_overall":150,"rank_role":30,"bonus":0,"champion":false}
 {"season":"2042-A","team_id":"sharks","matches":14,"points":186,"assists":147,"defeats":142,"kda_avg":6.0937,"kda_pond":5.4493,"rank_overall":29,"rank_role":7,"bonus":0,"champion":false}
 {"season":"2042-B","team_id":"sharks","matches":14,"points":145,"assists":147,"defeats":164,"kda_avg":2.8898,"kda_pond":3.4764,"rank_overall":124,"rank_role":22,"bonus":0,"champion":false}
+{"season":"2043-A","team_id":"sharks","matches":14,"points":137,"assists":135,"defeats":138,"kda_avg":3.3817,"kda_pond":3.8377,"rank_overall":108,"rank_role":21,"bonus":0,"champion":false}

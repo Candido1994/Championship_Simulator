@@ -31,3 +31,4 @@
 {"season":"2041-B","team_id":"barracudas","matches":14,"points":177,"assists":188,"defeats":113,"kda_avg":3.9527,"kda_pond":4.1537,"rank_overall":85,"rank_role":17,"bonus":5,"champion":false}
 {"season":"2042-A","team_id":"barracudas","matches":14,"points":197,"assists":267,"defeats":136,"kda_avg":6.5819,"kda_pond":5.7341,"rank_overall":25,"rank_role":5,"bonus":4,"champion":false}
 {"season":"2042-B","team_id":"barracudas","matches":14,"points":182,"assists":250,"defeats":81,"kda_avg":9.7901,"kda_pond":7.5016,"rank_overall":5,"rank_role":2,"bonus":5,"champion":false}
+{"season":"2043-A","team_id":"barracudas","matches":26,"points":387,"assists":420,"defeats":216,"kda_avg":5.6919,"kda_pond":5.0768,"rank_overall":40,"rank_role":10,"bonus":5,"champion":true}

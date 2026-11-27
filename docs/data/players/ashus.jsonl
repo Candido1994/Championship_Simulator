@@ -28,3 +28,4 @@
 {"season":"2041-A","team_id":"gorillas","matches":26,"points":289,"assists":317,"defeats":291,"kda_avg":4.1981,"kda_pond":4.4713,"rank_overall":52,"rank_role":13,"bonus":0,"champion":false}
 {"season":"2041-B","team_id":"gorillas","matches":18,"points":181,"assists":189,"defeats":210,"kda_avg":2.8423,"kda_pond":3.3416,"rank_overall":141,"rank_role":31,"bonus":0,"champion":false}
 {"season":"2042-B","team_id":"condors","matches":14,"points":152,"assists":140,"defeats":177,"kda_avg":2.6565,"kda_pond":3.3403,"rank_overall":131,"rank_role":26,"bonus":0,"champion":false}
+{"season":"2043-A","team_id":"condors","matches":17,"points":158,"assists":169,"defeats":151,"kda_avg":2.9635,"kda_pond":3.4914,"rank_overall":129,"rank_role":25,"bonus":0,"champion":false}

@@ -29,3 +29,4 @@
 {"season":"2041-A","team_id":"scorpions","matches":14,"points":163,"assists":147,"defeats":167,"kda_avg":4.838,"kda_pond":4.6191,"rank_overall":45,"rank_role":11,"bonus":0,"champion":false}
 {"season":"2041-B","team_id":"scorpions","matches":14,"points":146,"assists":112,"defeats":157,"kda_avg":2.042,"kda_pond":3.0391,"rank_overall":153,"rank_role":30,"bonus":0,"champion":false}
 {"season":"2042-B","team_id":"lions","matches":14,"points":146,"assists":179,"defeats":173,"kda_avg":2.3142,"kda_pond":3.1406,"rank_overall":143,"rank_role":27,"bonus":0,"champion":false}
+{"season":"2043-A","team_id":"lions","matches":14,"points":145,"assists":95,"defeats":151,"kda_avg":1.7155,"kda_pond":2.8657,"rank_overall":158,"rank_role":32,"bonus":0,"champion":false}
