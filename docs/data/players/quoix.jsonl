@@ -33,3 +33,4 @@
 {"season":"2042-A","team_id":"jaguars","matches":16,"points":246,"assists":259,"defeats":111,"kda_avg":7.1282,"kda_pond":6.0831,"rank_overall":16,"rank_role":2,"bonus":5,"champion":false}
 {"season":"2042-B","team_id":"jaguars","matches":22,"points":346,"assists":359,"defeats":163,"kda_avg":7.8725,"kda_pond":6.4957,"rank_overall":9,"rank_role":1,"bonus":5,"champion":false}
 {"season":"2043-A","team_id":"jaguars","matches":17,"points":283,"assists":244,"defeats":155,"kda_avg":3.8998,"kda_pond":4.0701,"rank_overall":92,"rank_role":18,"bonus":5,"champion":false}
+{"season":"2043-B","team_id":"jaguars","matches":14,"points":206,"assists":194,"defeats":115,"kda_avg":5.6392,"kda_pond":5.1052,"rank_overall":36,"rank_role":9,"bonus":4,"champion":false}

@@ -29,3 +29,4 @@
 {"season":"2041-A","team_id":"barracudas","matches":14,"points":145,"assists":133,"defeats":182,"kda_avg":1.8855,"kda_pond":2.8967,"rank_overall":152,"rank_role":30,"bonus":0,"champion":false}
 {"season":"2042-A","team_id":"scorpions","matches":14,"points":127,"assists":118,"defeats":124,"kda_avg":3.3301,"kda_pond":3.8372,"rank_overall":116,"rank_role":18,"bonus":0,"champion":false}
 {"season":"2042-B","team_id":"scorpions","matches":27,"points":293,"assists":276,"defeats":315,"kda_avg":2.5985,"kda_pond":2.8665,"rank_overall":157,"rank_role":31,"bonus":0,"champion":false}
+{"season":"2043-B","team_id":"leopards","matches":17,"points":172,"assists":220,"defeats":220,"kda_avg":2.5805,"kda_pond":3.2019,"rank_overall":141,"rank_role":28,"bonus":0,"champion":false}

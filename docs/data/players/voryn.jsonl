@@ -32,3 +32,4 @@
 {"season":"2042-A","team_id":"foxes","matches":21,"points":370,"assists":342,"defeats":122,"kda_avg":12.9499,"kda_pond":10.6126,"rank_overall":1,"rank_role":1,"bonus":5,"champion":false}
 {"season":"2042-B","team_id":"barracudas","matches":14,"points":194,"assists":205,"defeats":148,"kda_avg":4.447,"kda_pond":4.3848,"rank_overall":54,"rank_role":10,"bonus":5,"champion":false}
 {"season":"2043-A","team_id":"barracudas","matches":26,"points":398,"assists":467,"defeats":255,"kda_avg":5.082,"kda_pond":5.0269,"rank_overall":43,"rank_role":9,"bonus":5,"champion":true}
+{"season":"2043-B","team_id":"barracudas","matches":24,"points":425,"assists":390,"defeats":198,"kda_avg":6.1472,"kda_pond":5.5569,"rank_overall":22,"rank_role":3,"bonus":5,"champion":true}

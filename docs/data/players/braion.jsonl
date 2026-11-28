@@ -28,3 +28,4 @@
 {"season":"2041-B","team_id":"hornets","matches":14,"points":123,"assists":121,"defeats":130,"kda_avg":2.7869,"kda_pond":3.4736,"rank_overall":133,"rank_role":25,"bonus":1,"champion":false}
 {"season":"2042-A","team_id":"lions","matches":14,"points":138,"assists":112,"defeats":191,"kda_avg":1.991,"kda_pond":3.056,"rank_overall":154,"rank_role":31,"bonus":0,"champion":false}
 {"season":"2043-A","team_id":"cobras","matches":14,"points":119,"assists":138,"defeats":119,"kda_avg":4.1063,"kda_pond":4.2604,"rank_overall":76,"rank_role":13,"bonus":0,"champion":false}
+{"season":"2043-B","team_id":"cobras","matches":16,"points":179,"assists":159,"defeats":178,"kda_avg":2.8665,"kda_pond":3.4295,"rank_overall":131,"rank_role":25,"bonus":0,"champion":false}

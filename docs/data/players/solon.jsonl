@@ -27,3 +27,4 @@
 {"season":"2041-A","team_id":"bears","matches":14,"points":156,"assists":150,"defeats":190,"kda_avg":1.8115,"kda_pond":2.8536,"rank_overall":154,"rank_role":31,"bonus":0,"champion":false}
 {"season":"2042-A","team_id":"leopards","matches":14,"points":173,"assists":157,"defeats":174,"kda_avg":2.373,"kda_pond":3.2789,"rank_overall":148,"rank_role":30,"bonus":0,"champion":false}
 {"season":"2043-A","team_id":"panthers","matches":17,"points":167,"assists":225,"defeats":149,"kda_avg":5.6527,"kda_pond":5.186,"rank_overall":37,"rank_role":7,"bonus":0,"champion":false}
+{"season":"2043-B","team_id":"panthers","matches":14,"points":175,"assists":160,"defeats":103,"kda_avg":6.416,"kda_pond":5.5583,"rank_overall":21,"rank_role":8,"bonus":0,"champion":false}

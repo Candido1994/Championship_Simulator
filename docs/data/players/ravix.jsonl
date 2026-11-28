@@ -28,3 +28,4 @@
 {"season":"2041-B","team_id":"komodos","matches":16,"points":199,"assists":155,"defeats":117,"kda_avg":8.5079,"kda_pond":6.846,"rank_overall":5,"rank_role":2,"bonus":1,"champion":false}
 {"season":"2042-A","team_id":"komodos","matches":19,"points":233,"assists":218,"defeats":173,"kda_avg":3.4347,"kda_pond":3.736,"rank_overall":122,"rank_role":19,"bonus":2,"champion":false}
 {"season":"2042-B","team_id":"komodos","matches":16,"points":219,"assists":138,"defeats":220,"kda_avg":2.0694,"kda_pond":2.9078,"rank_overall":156,"rank_role":30,"bonus":1,"champion":false}
+{"season":"2043-B","team_id":"lynxes","matches":17,"points":174,"assists":177,"defeats":184,"kda_avg":2.7748,"kda_pond":3.435,"rank_overall":129,"rank_role":24,"bonus":0,"champion":false}

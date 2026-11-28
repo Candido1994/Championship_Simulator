@@ -28,3 +28,4 @@
 {"season":"2042-A","team_id":"panthers","matches":16,"points":195,"assists":159,"defeats":153,"kda_avg":4.9183,"kda_pond":4.9107,"rank_overall":42,"rank_role":8,"bonus":1,"champion":false}
 {"season":"2042-B","team_id":"panthers","matches":20,"points":232,"assists":241,"defeats":168,"kda_avg":5.5555,"kda_pond":5.2534,"rank_overall":20,"rank_role":2,"bonus":1,"champion":false}
 {"season":"2043-A","team_id":"panthers","matches":17,"points":200,"assists":225,"defeats":169,"kda_avg":4.4804,"kda_pond":4.411,"rank_overall":67,"rank_role":11,"bonus":2,"champion":false}
+{"season":"2043-B","team_id":"panthers","matches":14,"points":161,"assists":173,"defeats":125,"kda_avg":5.0439,"kda_pond":4.7579,"rank_overall":54,"rank_role":13,"bonus":2,"champion":false}

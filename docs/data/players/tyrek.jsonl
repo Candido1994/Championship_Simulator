@@ -30,3 +30,4 @@
 {"season":"2042-A","team_id":"lions","matches":14,"points":168,"assists":168,"defeats":146,"kda_avg":3.7239,"kda_pond":4.0669,"rank_overall":92,"rank_role":18,"bonus":0,"champion":false}
 {"season":"2042-B","team_id":"lions","matches":14,"points":145,"assists":164,"defeats":134,"kda_avg":5.3694,"kda_pond":4.9228,"rank_overall":31,"rank_role":11,"bonus":0,"champion":false}
 {"season":"2043-A","team_id":"owls","matches":14,"points":150,"assists":113,"defeats":129,"kda_avg":3.8999,"kda_pond":4.1399,"rank_overall":86,"rank_role":17,"bonus":0,"champion":false}
+{"season":"2043-B","team_id":"owls","matches":17,"points":203,"assists":170,"defeats":171,"kda_avg":5.34,"kda_pond":4.9325,"rank_overall":43,"rank_role":8,"bonus":0,"champion":false}
